@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo UltraStar Karaoke</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .animate-fade-in {
+      animation: fadeInUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans antialiased selection:bg-purple-500 selection:text-white">
+
+  <!-- Header Fijo con Glassmorphism -->
+  <header class="sticky top-0 z-40 bg-slate-900/90 backdrop-blur-xl border-b border-slate-800/80 p-4 shadow-2xl">
+    <div class="max-w-4xl mx-auto flex flex-col gap-3.5">
+      
+      <!-- Título e Indicador -->
+      <div class="flex items-center justify-between">
+        <h1 class="text-xl font-extrabold bg-gradient-to-r from-purple-400 via-pink-400 to-rose-400 bg-clip-text text-transparent flex items-center gap-2.5 tracking-tight">
+          <svg class="w-6 h-6 text-purple-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+          </svg>
+          UltraStar Karaoke
+        </h1>
+        <span id="song-count" class="text-xs px-3 py-1 bg-purple-950/70 text-purple-300 rounded-full border border-purple-500/30 font-semibold tracking-wide shadow-sm">
+          0 canciones
+        </span>
+      </div>
+
+      <!-- Buscador e Insumo de Ordenamiento -->
+      <div class="flex gap-2">
+        <div class="relative flex-1">
+          <input type="text" id="search-input" placeholder="Buscar por canción, artista o género..."
+            class="w-full bg-slate-950/80 border border-slate-800/90 rounded-xl px-4 py-2.5 pl-10 pr-9 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500/50 transition-all duration-200 shadow-inner" />
+          
+          <svg class="w-4 h-4 absolute left-3.5 top-3.5 text-slate-500 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+
+          <!-- Botón Limpiar Buscador -->
+          <button id="clear-search" class="hidden absolute right-3 top-2.5 text-slate-400 hover:text-slate-100 text-xs font-bold bg-slate-800 hover:bg-slate-700 w-5 h-5 rounded-full transition-colors items-center justify-center">
+            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+
+        <select id="sort-select" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2.5 text-xs text-slate-300 focus:outline-none focus:border-purple-500 transition-colors cursor-pointer font-medium">
+          <option value="artist-asc">Artista (A - Z)</option>
+          <option value="artist-desc">Artista (Z - A)</option>
+          <option value="title-asc">Canción (A - Z)</option>
+          <option value="title-desc">Canción (Z - A)</option>
+          <option value="duration-asc">Duración (Más cortas)</option>
+          <option value="duration-desc">Duración (Más largas)</option>
+          <option value="random">Aleatorio</option>
+        </select>
+      </div>
+
+      <!-- Filtros por Género -->
+      <div class="flex flex-col gap-1.5 pt-1">
+        <span class="text-[10px] uppercase font-bold tracking-wider text-slate-500 px-1">Filtrar por Género</span>
+        <div id="genre-bar" class="flex gap-1.5 overflow-x-auto hide-scrollbar py-1 text-xs">
+          <!-- Generado dinámicamente -->
+        </div>
+      </div>
+
+      <!-- Índice A-Z -->
+      <div class="flex flex-col gap-1.5 border-t border-slate-800/60 pt-2">
+        <div id="alphabet-bar" class="flex gap-1 overflow-x-auto hide-scrollbar text-xs">
+          <!-- Generado dinámicamente -->
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Grilla Principal -->
+  <main class="max-w-4xl mx-auto p-4">
+    <div id="songs-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5">
+      <!-- Tarjetas renderizadas -->
+    </div>
+  </main>
+
+  <script type="module" src="/src/app.js"></script>
+</body>
+</html>

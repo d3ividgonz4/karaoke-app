@@ -1,0 +1,3251 @@
+[
+  {
+    "id": 1,
+    "nombre_cancion": "Bailan sin cesar",
+    "artista": "31 Minutos",
+    "genero": "Comedy",
+    "duracion": "01:51",
+    "duracion_segundos": 111,
+    "cover": "/covers/song_1_31_Minutos_-_Bailan_sin_cesar.jpg"
+  },
+  {
+    "id": 2,
+    "nombre_cancion": "Mi mamá me lo teje todo",
+    "artista": "31 Minutos",
+    "genero": "Infantil",
+    "duracion": "04:52",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_2_31_Minutos_-_Mi_mama_me_lo_teje_todo.jpg"
+  },
+  {
+    "id": 3,
+    "nombre_cancion": "Mi muñeca me habló",
+    "artista": "31 Minutos",
+    "genero": "Infantil",
+    "duracion": "03:24",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_3_31_Minutos_-_Mi_muneca_me_hablo.jpg"
+  },
+  {
+    "id": 4,
+    "nombre_cancion": "Inténtalo",
+    "artista": "3BallMTY, El Bebeto & América Sierra",
+    "genero": "Pop",
+    "duracion": "03:29",
+    "duracion_segundos": 209,
+    "cover": "/covers/song_4_3BallMTY_El_Bebeto_America_Sierra_-_Intentalo.jpg"
+  },
+  {
+    "id": 5,
+    "nombre_cancion": "Chiquitita",
+    "artista": "ABBA",
+    "genero": "Pop & Baladas",
+    "duracion": "05:21",
+    "duracion_segundos": 322,
+    "cover": "/covers/song_5_ABBA_-_Chiquitita.jpg"
+  },
+  {
+    "id": 6,
+    "nombre_cancion": "El poder nuestro es",
+    "artista": "Adrián Barba",
+    "genero": "Other",
+    "duracion": "01:47",
+    "duracion_segundos": 107,
+    "cover": "/covers/song_6_Adrian_Barba_-_El_poder_nuestro_es.jpg"
+  },
+  {
+    "id": 7,
+    "nombre_cancion": "Ángeles fuimos",
+    "artista": "Adrián Barba",
+    "genero": "Pop & Baladas",
+    "duracion": "01:35",
+    "duracion_segundos": 96,
+    "cover": "/covers/song_7_Adrian_Barba_-_Angeles_fuimos.jpg"
+  },
+  {
+    "id": 8,
+    "nombre_cancion": "SUPERESTRELLA",
+    "artista": "Aitana",
+    "genero": "Pop",
+    "duracion": "03:18",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_8_Aitana_-_SUPERESTRELLA.jpg"
+  },
+  {
+    "id": 9,
+    "nombre_cancion": "Príncipe Alí",
+    "artista": "Aladdín",
+    "genero": "Bandas sonoras",
+    "duracion": "02:47",
+    "duracion_segundos": 167,
+    "cover": "/covers/song_9_Aladdin_-_Principe_Ali.jpg"
+  },
+  {
+    "id": 10,
+    "nombre_cancion": "Un mundo ideal",
+    "artista": "Aladdín",
+    "genero": "Pop & Baladas",
+    "duracion": "02:34",
+    "duracion_segundos": 154,
+    "cover": "/covers/song_10_Aladdin_-_Un_mundo_ideal_latino_.jpg"
+  },
+  {
+    "id": 11,
+    "nombre_cancion": "A quién le importa",
+    "artista": "Alaska y Dinarama",
+    "genero": "Pop",
+    "duracion": "03:25",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_11_Alaska_y_Dinarama_-_A_quien_le_importa.jpg"
+  },
+  {
+    "id": 12,
+    "nombre_cancion": "Ni tú ni nadie",
+    "artista": "Alaska y Dinarama",
+    "genero": "Pop Nacional",
+    "duracion": "03:38",
+    "duracion_segundos": 218,
+    "cover": "/covers/song_12_Alaska_y_Dinarama_-_Ni_tu_ni_nadie.jpg"
+  },
+  {
+    "id": 13,
+    "nombre_cancion": "La llorona",
+    "artista": "Alba Reche",
+    "genero": "Pop",
+    "duracion": "02:35",
+    "duracion_segundos": 156,
+    "cover": "/covers/song_13_Alba_Reche_-_La_llorona.jpg"
+  },
+  {
+    "id": 14,
+    "nombre_cancion": "Maracas",
+    "artista": "Alberto Vázquez y Joan Sebastian",
+    "genero": "Balada",
+    "duracion": "03:00",
+    "duracion_segundos": 181,
+    "cover": "/covers/song_14_Alberto_Vazquez_y_Joan_Sebastian_-_Maracas.jpg"
+  },
+  {
+    "id": 15,
+    "nombre_cancion": "Te esperaba",
+    "artista": "Alejandra Guzmán",
+    "genero": "Balada",
+    "duracion": "04:21",
+    "duracion_segundos": 261,
+    "cover": "/covers/song_15_Alejandra_Guzman_-_Te_esperaba.jpg"
+  },
+  {
+    "id": 16,
+    "nombre_cancion": "Mi corazón encantado",
+    "artista": "Alejandro Arnais",
+    "genero": "Pop & Baladas",
+    "duracion": "01:46",
+    "duracion_segundos": 107,
+    "cover": "/covers/song_16_Alejandro_Arnais_-_Mi_corazon_encantado.jpg"
+  },
+  {
+    "id": 17,
+    "nombre_cancion": "Como quien pierde una estrella",
+    "artista": "Alejandro Fernandez",
+    "genero": "Ranchera",
+    "duracion": "03:36",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_17_Alejandro_Fernandez_-_Como_quien_pierde_una_estrella.jpg"
+  },
+  {
+    "id": 18,
+    "nombre_cancion": "Blanca Navidad",
+    "artista": "Alejandro Fernández",
+    "genero": "Villancicos",
+    "duracion": "03:26",
+    "duracion_segundos": 206,
+    "cover": "/covers/song_18_Alejandro_Fernandez_-_Blanca_Navidad.jpg"
+  },
+  {
+    "id": 19,
+    "nombre_cancion": "Mátalas",
+    "artista": "Alejandro Fernández",
+    "genero": "Ranchera",
+    "duracion": "02:52",
+    "duracion_segundos": 173,
+    "cover": "/covers/song_19_Alejandro_Fernandez_-_Matalas.jpg"
+  },
+  {
+    "id": 20,
+    "nombre_cancion": "Mi persona favorita",
+    "artista": "Alejandro Sanz & Camila Cabello",
+    "genero": "Pop & Baladas",
+    "duracion": "03:46",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_20_Alejandro_Sanz_Camila_Cabello_-_Mi_persona_favorita.jpg"
+  },
+  {
+    "id": 21,
+    "nombre_cancion": "A la primera persona",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop",
+    "duracion": "05:11",
+    "duracion_segundos": 311,
+    "cover": "/covers/song_21_Alejandro_Sanz_-_A_la_primera_persona.jpg"
+  },
+  {
+    "id": 22,
+    "nombre_cancion": "Amiga mía",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop",
+    "duracion": "04:47",
+    "duracion_segundos": 287,
+    "cover": "/covers/song_22_Alejandro_Sanz_-_Amiga_mia.jpg"
+  },
+  {
+    "id": 23,
+    "nombre_cancion": "Aquello que me diste",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop & Baladas",
+    "duracion": "04:45",
+    "duracion_segundos": 286,
+    "cover": "/covers/song_23_Alejandro_Sanz_-_Aquello_que_me_diste.jpg"
+  },
+  {
+    "id": 24,
+    "nombre_cancion": "Corazón partío",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop & Baladas",
+    "duracion": "04:38",
+    "duracion_segundos": 278,
+    "cover": "/covers/song_24_Alejandro_Sanz_-_Corazon_partio.jpg"
+  },
+  {
+    "id": 25,
+    "nombre_cancion": "Desde cuando",
+    "artista": "Alejandro Sanz",
+    "genero": "Balada",
+    "duracion": "03:54",
+    "duracion_segundos": 235,
+    "cover": "/covers/song_25_Alejandro_Sanz_-_Desde_cuando.jpg"
+  },
+  {
+    "id": 26,
+    "nombre_cancion": "No me compares",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop",
+    "duracion": "04:45",
+    "duracion_segundos": 286,
+    "cover": "/covers/song_26_Alejandro_Sanz_-_No_me_compares.jpg"
+  },
+  {
+    "id": 27,
+    "nombre_cancion": "¿Lo ves?",
+    "artista": "Alejandro Sanz",
+    "genero": "Pop",
+    "duracion": "03:50",
+    "duracion_segundos": 230,
+    "cover": "/covers/song_27_Alejandro_Sanz_-_Lo_ves.jpg"
+  },
+  {
+    "id": 28,
+    "nombre_cancion": "Loca",
+    "artista": "Aleks Syntek",
+    "genero": "Pop & Baladas",
+    "duracion": "03:55",
+    "duracion_segundos": 236,
+    "cover": "/covers/song_28_Aleks_Syntek_-_Loca.jpg"
+  },
+  {
+    "id": 29,
+    "nombre_cancion": "Duele el amor",
+    "artista": "Aleks Syntek y Ana Torroja",
+    "genero": "Pop",
+    "duracion": "04:39",
+    "duracion_segundos": 279,
+    "cover": "/covers/song_29_Aleks_Syntek_y_Ana_Torroja_-_Duele_el_amor.jpg"
+  },
+  {
+    "id": 30,
+    "nombre_cancion": "El ataque de las chicas cocodrilo",
+    "artista": "Aleks Syntek y David Summers",
+    "genero": "Pop & Baladas",
+    "duracion": "03:49",
+    "duracion_segundos": 229,
+    "cover": "/covers/song_30_Aleks_Syntek_y_David_Summers_-_El_ataque_de_las_chicas_cocodrilo.jpg"
+  },
+  {
+    "id": 31,
+    "nombre_cancion": "Yo soy tu amigo fiel",
+    "artista": "Alex Syntek & Danna Paola",
+    "genero": "Soundtrack",
+    "duracion": "03:04",
+    "duracion_segundos": 184,
+    "cover": "/covers/song_31_Alex_Syntek_Danna_Paola_-_Yo_soy_tu_amigo_fiel.jpg"
+  },
+  {
+    "id": 32,
+    "nombre_cancion": "Castillos",
+    "artista": "Amanda Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:20",
+    "duracion_segundos": 261,
+    "cover": "/covers/song_32_Amanda_Miguel_-_Castillos.jpg"
+  },
+  {
+    "id": 33,
+    "nombre_cancion": "Mi buen corazón",
+    "artista": "Amanda Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:23",
+    "duracion_segundos": 263,
+    "cover": "/covers/song_33_Amanda_Miguel_-_Mi_buen_corazon.jpg"
+  },
+  {
+    "id": 34,
+    "nombre_cancion": "Él me mintió",
+    "artista": "Amanda Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "03:42",
+    "duracion_segundos": 222,
+    "cover": "/covers/song_34_Amanda_Miguel_-_El_me_mintio.jpg"
+  },
+  {
+    "id": 35,
+    "nombre_cancion": "Luna",
+    "artista": "Ana Gabriel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:31",
+    "duracion_segundos": 271,
+    "cover": "/covers/song_35_Ana_Gabriel_-_Luna.jpg"
+  },
+  {
+    "id": 36,
+    "nombre_cancion": "Quién como tú",
+    "artista": "Ana Gabriel",
+    "genero": "Other",
+    "duracion": "03:35",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_36_Ana_Gabriel_-_Quien_como_tu.jpg"
+  },
+  {
+    "id": 37,
+    "nombre_cancion": "Simplemente amigos",
+    "artista": "Ana Gabriel",
+    "genero": "Pop & Baladas",
+    "duracion": "03:39",
+    "duracion_segundos": 219,
+    "cover": "/covers/song_37_Ana_Gabriel_-_Simplemente_amigos.jpg"
+  },
+  {
+    "id": 38,
+    "nombre_cancion": "Tú, sólo tú",
+    "artista": "Ana Gabriel",
+    "genero": "Ranchera",
+    "duracion": "03:30",
+    "duracion_segundos": 210,
+    "cover": "/covers/song_38_Ana_Gabriel_-_Tu_solo_tu.jpg"
+  },
+  {
+    "id": 39,
+    "nombre_cancion": "Ella y yo",
+    "artista": "Aventura ft. Don Omar",
+    "genero": "Dueto",
+    "duracion": "04:31",
+    "duracion_segundos": 272,
+    "cover": "/covers/song_39_Aventura_ft_Don_Omar_-_Ella_y_yo.jpg"
+  },
+  {
+    "id": 40,
+    "nombre_cancion": "Ojitos lindos",
+    "artista": "Bad Bunny & Bomba Estéreo",
+    "genero": "Latino",
+    "duracion": "04:18",
+    "duracion_segundos": 258,
+    "cover": "/covers/song_40_Bad_Bunny_Bomba_Estereo_-_Ojitos_lindos.jpg"
+  },
+  {
+    "id": 41,
+    "nombre_cancion": "Amorfoda",
+    "artista": "Bad Bunny",
+    "genero": "Pop & Baladas",
+    "duracion": "02:56",
+    "duracion_segundos": 176,
+    "cover": "/covers/song_41_Bad_Bunny_-_Amorfoda.jpg"
+  },
+  {
+    "id": 42,
+    "nombre_cancion": "DtMF",
+    "artista": "Bad Bunny",
+    "genero": "Latino",
+    "duracion": "03:57",
+    "duracion_segundos": 237,
+    "cover": "/covers/song_42_Bad_Bunny_-_DtMF.jpeg"
+  },
+  {
+    "id": 43,
+    "nombre_cancion": "La difícil",
+    "artista": "Bad Bunny",
+    "genero": "Pop & Baladas",
+    "duracion": "03:12",
+    "duracion_segundos": 192,
+    "cover": "/covers/song_43_Bad_Bunny_-_La_dificil.jpg"
+  },
+  {
+    "id": 44,
+    "nombre_cancion": "Si veo a tu mamá",
+    "artista": "Bad Bunny",
+    "genero": "Pop & Baladas",
+    "duracion": "03:08",
+    "duracion_segundos": 189,
+    "cover": "/covers/song_44_Bad_Bunny_-_Si_veo_a_tu_mama.jpg"
+  },
+  {
+    "id": 45,
+    "nombre_cancion": "Yo perreo sola",
+    "artista": "Bad Bunny",
+    "genero": "Pop & Baladas",
+    "duracion": "02:52",
+    "duracion_segundos": 172,
+    "cover": "/covers/song_45_Bad_Bunny_-_Yo_perreo_sola.jpg"
+  },
+  {
+    "id": 46,
+    "nombre_cancion": "Yonaguni",
+    "artista": "Bad Bunny",
+    "genero": "Reggaetón",
+    "duracion": "03:26",
+    "duracion_segundos": 207,
+    "cover": "/covers/song_46_Bad_Bunny_-_Yonaguni.jpg"
+  },
+  {
+    "id": 47,
+    "nombre_cancion": "Dákiti",
+    "artista": "Bad Bunny y Jhay Cortez",
+    "genero": "Pop & Baladas",
+    "duracion": "03:20",
+    "duracion_segundos": 200,
+    "cover": "/covers/song_47_Bad_Bunny_y_Jhay_Cortez_-_Dakiti.jpg"
+  },
+  {
+    "id": 48,
+    "nombre_cancion": "Callaíta",
+    "artista": "Bad Bunny y Tainy",
+    "genero": "Pop & Baladas",
+    "duracion": "04:11",
+    "duracion_segundos": 252,
+    "cover": "/covers/song_48_Bad_Bunny_y_Tainy_-_Callaita.jpg"
+  },
+  {
+    "id": 49,
+    "nombre_cancion": "Baila mi corazón",
+    "artista": "Belanova",
+    "genero": "Pop",
+    "duracion": "03:24",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_49_Belanova_-_Baila_mi_corazon.jpg"
+  },
+  {
+    "id": 50,
+    "nombre_cancion": "Cada que",
+    "artista": "Belanova",
+    "genero": "Pop & Baladas",
+    "duracion": "03:43",
+    "duracion_segundos": 224,
+    "cover": "/covers/song_50_Belanova_-_Cada_que.jpg"
+  },
+  {
+    "id": 51,
+    "nombre_cancion": "Mariposas",
+    "artista": "Belanova",
+    "genero": "ElectroPop",
+    "duracion": "03:56",
+    "duracion_segundos": 236,
+    "cover": "/covers/song_51_Belanova_-_Mariposas.jpg"
+  },
+  {
+    "id": 52,
+    "nombre_cancion": "Me pregunto",
+    "artista": "Belanova",
+    "genero": "Pop & Baladas",
+    "duracion": "03:00",
+    "duracion_segundos": 181,
+    "cover": "/covers/song_52_Belanova_-_Me_pregunto.jpg"
+  },
+  {
+    "id": 53,
+    "nombre_cancion": "Rosa Pastel",
+    "artista": "Belanova",
+    "genero": "Pop",
+    "duracion": "03:08",
+    "duracion_segundos": 189,
+    "cover": "/covers/song_53_Belanova_-_Rosa_Pastel.jpg"
+  },
+  {
+    "id": 54,
+    "nombre_cancion": "Tus ojos",
+    "artista": "Belanova",
+    "genero": "Pop",
+    "duracion": "03:02",
+    "duracion_segundos": 183,
+    "cover": "/covers/song_54_Belanova_-_Tus_ojos.jpg"
+  },
+  {
+    "id": 55,
+    "nombre_cancion": "GATITA",
+    "artista": "Bellakath",
+    "genero": "Pop & Baladas",
+    "duracion": "02:40",
+    "duracion_segundos": 160,
+    "cover": "/covers/song_55_Bellakath_-_GATITA.jpg"
+  },
+  {
+    "id": 56,
+    "nombre_cancion": "Mis ojos lloran por ti",
+    "artista": "Big Boy",
+    "genero": "Reggaeton",
+    "duracion": "04:54",
+    "duracion_segundos": 294,
+    "cover": "/covers/song_56_Big_Boy_-_Mis_ojos_lloran_por_ti.jpg"
+  },
+  {
+    "id": 57,
+    "nombre_cancion": "Pantalones rotos",
+    "artista": "Bob Esponja",
+    "genero": "UltraStar dibujos animados latino",
+    "duracion": "01:22",
+    "duracion_segundos": 83,
+    "cover": "/covers/song_57_Bob_Esponja_-_Pantalones_rotos.jpg"
+  },
+  {
+    "id": 58,
+    "nombre_cancion": "Eres",
+    "artista": "Café Tacuba",
+    "genero": "Pop Rock Latino",
+    "duracion": "04:25",
+    "duracion_segundos": 266,
+    "cover": "/covers/song_58_Cafe_Tacuba_-_Eres.jpg"
+  },
+  {
+    "id": 59,
+    "nombre_cancion": "La negra Tomasa",
+    "artista": "Caifanes",
+    "genero": "Pop & Baladas",
+    "duracion": "03:29",
+    "duracion_segundos": 209,
+    "cover": "/covers/song_59_Caifanes_-_La_negra_Tomasa.jpg"
+  },
+  {
+    "id": 60,
+    "nombre_cancion": "Viento",
+    "artista": "Caifanes",
+    "genero": "Pop & Baladas",
+    "duracion": "03:53",
+    "duracion_segundos": 234,
+    "cover": "/covers/song_60_Caifanes_-_Viento.jpg"
+  },
+  {
+    "id": 61,
+    "nombre_cancion": "Muerte en Hawaii",
+    "artista": "Calle 13",
+    "genero": "Reguetón",
+    "duracion": "03:12",
+    "duracion_segundos": 192,
+    "cover": "/covers/song_61_Calle_13_-_Muerte_en_Hawaii.jpg"
+  },
+  {
+    "id": 62,
+    "nombre_cancion": "¡Atrévete, te, te!",
+    "artista": "Calle 13",
+    "genero": "Reggaeton",
+    "duracion": "03:53",
+    "duracion_segundos": 233,
+    "cover": "/covers/song_62_Calle_13_-_Atrevete_te_te_.jpg"
+  },
+  {
+    "id": 63,
+    "nombre_cancion": "Havana (Remix)",
+    "artista": "Camila Cabello feat. Daddy Yankee",
+    "genero": "Pop & Baladas",
+    "duracion": "03:17",
+    "duracion_segundos": 197,
+    "cover": "/covers/song_63_Camila_Cabello_feat_Daddy_Yankee_-_Havana_Remix_.jpg"
+  },
+  {
+    "id": 64,
+    "nombre_cancion": "Índigo",
+    "artista": "Camilo y Evaluna Montaner",
+    "genero": "Pop",
+    "duracion": "03:34",
+    "duracion_segundos": 215,
+    "cover": "/covers/song_64_Camilo_y_Evaluna_Montaner_-_Indigo.jpg"
+  },
+  {
+    "id": 65,
+    "nombre_cancion": "Colgando en tus manos",
+    "artista": "Carlos Baute y Marta Sánchez",
+    "genero": "Dueto",
+    "duracion": "03:55",
+    "duracion_segundos": 235,
+    "cover": "/covers/song_65_Carlos_Baute_y_Marta_Sanchez_-_Colgando_en_tus_manos.jpg"
+  },
+  {
+    "id": 66,
+    "nombre_cancion": "Recuérdame",
+    "artista": "Carlos Rivera",
+    "genero": "Pop",
+    "duracion": "02:40",
+    "duracion_segundos": 160,
+    "cover": "/covers/song_66_Carlos_Rivera_-_Recuerdame.jpg"
+  },
+  {
+    "id": 67,
+    "nombre_cancion": "La vida es un carnaval",
+    "artista": "Celia Cruz",
+    "genero": "Pop & Baladas",
+    "duracion": "04:36",
+    "duracion_segundos": 277,
+    "cover": "/covers/song_67_Celia_Cruz_-_La_vida_es_un_carnaval.jpg"
+  },
+  {
+    "id": 68,
+    "nombre_cancion": "Niña bonita",
+    "artista": "Chino & Nacho",
+    "genero": "Reggaeton",
+    "duracion": "03:54",
+    "duracion_segundos": 234,
+    "cover": "/covers/song_68_Chino_Nacho_-_Nina_Bonita.jpg"
+  },
+  {
+    "id": 69,
+    "nombre_cancion": "Tu angelito",
+    "artista": "Chino & Nacho",
+    "genero": "Pop",
+    "duracion": "04:11",
+    "duracion_segundos": 251,
+    "cover": "/covers/song_69_Chino_Nacho_-_Tu_angelito.jpg"
+  },
+  {
+    "id": 70,
+    "nombre_cancion": "Andas en mi cabeza",
+    "artista": "Chino y Nacho con Daddy Yankee",
+    "genero": "Pop & Baladas",
+    "duracion": "04:13",
+    "duracion_segundos": 254,
+    "cover": "/covers/song_70_Chino_y_Nacho_con_Daddy_Yankee_-_Andas_en_mi_cabeza.jpg"
+  },
+  {
+    "id": 71,
+    "nombre_cancion": "Dime cómo quieres",
+    "artista": "Christian Nodal y Ángela Aguilar",
+    "genero": "Pop & Baladas",
+    "duracion": "02:51",
+    "duracion_segundos": 171,
+    "cover": "/covers/song_71_Christian_Nodal_y_Angela_Aguilar_-_Dime_como_quieres.jpg"
+  },
+  {
+    "id": 72,
+    "nombre_cancion": "Tu nombre",
+    "artista": "Coti y Julieta Venegas",
+    "genero": "Pop & Baladas",
+    "duracion": "03:20",
+    "duracion_segundos": 201,
+    "cover": "/covers/song_72_Coti_y_Julieta_Venegas_-_Tu_nombre.jpg"
+  },
+  {
+    "id": 73,
+    "nombre_cancion": "Ven conmigo",
+    "artista": "Daddy Yankee & Prince Royce",
+    "genero": "Reggaeton",
+    "duracion": "04:52",
+    "duracion_segundos": 293,
+    "cover": "/covers/song_73_Daddy_Yankee_Prince_Royce_-_Ven_conmigo.jpg"
+  },
+  {
+    "id": 74,
+    "nombre_cancion": "Ella me levantó",
+    "artista": "Daddy Yankee",
+    "genero": "Reggaeton",
+    "duracion": "03:29",
+    "duracion_segundos": 209,
+    "cover": "/covers/song_74_Daddy_Yankee_-_Ella_me_levanto.jpg"
+  },
+  {
+    "id": 75,
+    "nombre_cancion": "La despedida",
+    "artista": "Daddy Yankee",
+    "genero": "Regueton",
+    "duracion": "04:09",
+    "duracion_segundos": 249,
+    "cover": "/covers/song_75_Daddy_Yankee_-_La_despedida.jpg"
+  },
+  {
+    "id": 76,
+    "nombre_cancion": "Limbo",
+    "artista": "Daddy Yankee",
+    "genero": "Pop & Baladas",
+    "duracion": "04:10",
+    "duracion_segundos": 250,
+    "cover": "/covers/song_76_Daddy_Yankee_-_Limbo.jpg"
+  },
+  {
+    "id": 77,
+    "nombre_cancion": "Llamado de emergencia",
+    "artista": "Daddy Yankee",
+    "genero": "Reggaeton",
+    "duracion": "03:59",
+    "duracion_segundos": 240,
+    "cover": "/covers/song_77_Daddy_Yankee_-_Llamado_de_emergencia.jpg"
+  },
+  {
+    "id": 78,
+    "nombre_cancion": "Lo que pasó, pasó",
+    "artista": "Daddy Yankee",
+    "genero": "Reggaeton",
+    "duracion": "03:30",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_78_Daddy_Yankee_-_Lo_que_paso_paso.jpg"
+  },
+  {
+    "id": 79,
+    "nombre_cancion": "Pose",
+    "artista": "Daddy Yankee",
+    "genero": "Pop & Baladas",
+    "duracion": "03:36",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_79_Daddy_Yankee_-_Pose.jpg"
+  },
+  {
+    "id": 80,
+    "nombre_cancion": "Que tengo que hacer",
+    "artista": "Daddy Yankee",
+    "genero": "Reggaeton",
+    "duracion": "04:01",
+    "duracion_segundos": 241,
+    "cover": "/covers/song_80_Daddy_Yankee_-_Que_tengo_que_hacer.jpg"
+  },
+  {
+    "id": 81,
+    "nombre_cancion": "Con calma",
+    "artista": "Daddy Yankee con Snow",
+    "genero": "Pop & Baladas",
+    "duracion": "03:13",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_81_Daddy_Yankee_con_Snow_-_Con_calma.jpg"
+  },
+  {
+    "id": 82,
+    "nombre_cancion": "El amante",
+    "artista": "Daddy Yankee ft. J Alvarez",
+    "genero": "Reggaeton",
+    "duracion": "04:01",
+    "duracion_segundos": 241,
+    "cover": "/covers/song_82_Daddy_Yankee_ft_J_Alvarez_-_El_amante.jpeg"
+  },
+  {
+    "id": 83,
+    "nombre_cancion": "La rompe corazones",
+    "artista": "Daddy Yankee y Ozuna",
+    "genero": "Pop & Baladas",
+    "duracion": "03:40",
+    "duracion_segundos": 220,
+    "cover": "/covers/song_83_Daddy_Yankee_y_Ozuna_-_La_rompe_corazones.jpg"
+  },
+  {
+    "id": 84,
+    "nombre_cancion": "Around The World",
+    "artista": "Daft Punk",
+    "genero": "House",
+    "duracion": "04:03",
+    "duracion_segundos": 244,
+    "cover": "/covers/song_84_Daft_Punk_-_Around_The_World.jpg"
+  },
+  {
+    "id": 85,
+    "nombre_cancion": "Digital Love",
+    "artista": "Daft Punk",
+    "genero": "Pop & Baladas",
+    "duracion": "04:27",
+    "duracion_segundos": 267,
+    "cover": "/covers/song_85_Daft_Punk_-_Digital_Love.jpg"
+  },
+  {
+    "id": 86,
+    "nombre_cancion": "Get Lucky",
+    "artista": "Daft Punk",
+    "genero": "Electronic Music",
+    "duracion": "04:08",
+    "duracion_segundos": 248,
+    "cover": "/covers/song_86_Daft_Punk_-_Get_Lucky.jpg"
+  },
+  {
+    "id": 87,
+    "nombre_cancion": "One More Time",
+    "artista": "Daft Punk",
+    "genero": "Pop & Baladas",
+    "duracion": "05:21",
+    "duracion_segundos": 322,
+    "cover": "/covers/song_87_Daft_Punk_-_One_More_Time.jpg"
+  },
+  {
+    "id": 88,
+    "nombre_cancion": "Instant Crush",
+    "artista": "Daft Punk ft. Julian Casablancas",
+    "genero": "Electronic",
+    "duracion": "05:39",
+    "duracion_segundos": 340,
+    "cover": "/covers/song_88_Daft_Punk_ft_Julian_Casablancas_-_Instant_Crush.png"
+  },
+  {
+    "id": 89,
+    "nombre_cancion": "Mentiras",
+    "artista": "Daniela Romo",
+    "genero": "Pop & Baladas",
+    "duracion": "03:54",
+    "duracion_segundos": 234,
+    "cover": "/covers/song_89_Daniela_Romo_-_Mentiras.jpg"
+  },
+  {
+    "id": 90,
+    "nombre_cancion": "Color esperanza",
+    "artista": "Diego Torres",
+    "genero": "Pop & Baladas",
+    "duracion": "04:27",
+    "duracion_segundos": 268,
+    "cover": "/covers/song_90_Diego_Torres_-_Color_esperanza.jpg"
+  },
+  {
+    "id": 91,
+    "nombre_cancion": "Volveré",
+    "artista": "Diego Verdaguer y Amanda Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:52",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_91_Diego_Verdaguer_y_Amanda_Miguel_-_Volvere.jpg"
+  },
+  {
+    "id": 92,
+    "nombre_cancion": "Danza Kuduro",
+    "artista": "Don Omar & Lucenzo",
+    "genero": "Reggaeton",
+    "duracion": "03:19",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_92_Don_Omar_Lucenzo_-_Danza_Kuduro.jpg"
+  },
+  {
+    "id": 93,
+    "nombre_cancion": "Ayer la vi",
+    "artista": "Don Omar",
+    "genero": "Reggaeton",
+    "duracion": "04:15",
+    "duracion_segundos": 256,
+    "cover": "/covers/song_93_Don_Omar_-_Ayer_la_vi.jpg"
+  },
+  {
+    "id": 94,
+    "nombre_cancion": "Dile",
+    "artista": "Don Omar",
+    "genero": "Pop & Baladas",
+    "duracion": "03:24",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_94_Don_Omar_-_Dile.jpg"
+  },
+  {
+    "id": 95,
+    "nombre_cancion": "Hasta que salga el sol",
+    "artista": "Don Omar",
+    "genero": "Pop & Baladas",
+    "duracion": "04:03",
+    "duracion_segundos": 243,
+    "cover": "/covers/song_95_Don_Omar_-_Hasta_que_salga_el_sol.jpg"
+  },
+  {
+    "id": 96,
+    "nombre_cancion": "Taboo",
+    "artista": "Don Omar",
+    "genero": "Pop",
+    "duracion": "04:52",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_96_Don_Omar_-_Taboo.jpg"
+  },
+  {
+    "id": 97,
+    "nombre_cancion": "Virtual diva",
+    "artista": "Don Omar",
+    "genero": "Electrónica",
+    "duracion": "04:01",
+    "duracion_segundos": 241,
+    "cover": "/covers/song_97_Don_Omar_-_Virtual_diva.jpg"
+  },
+  {
+    "id": 98,
+    "nombre_cancion": "Flores amarillas",
+    "artista": "Eiza Gonzalez",
+    "genero": "Soundtrack",
+    "duracion": "03:35",
+    "duracion_segundos": 215,
+    "cover": "/covers/song_98_Eiza_Gonzalez_-_Flores_amarillas.jpg"
+  },
+  {
+    "id": 99,
+    "nombre_cancion": "Busca lo más vital",
+    "artista": "El Libro De La Selva",
+    "genero": "Pop & Baladas",
+    "duracion": "02:24",
+    "duracion_segundos": 144,
+    "cover": "/covers/song_99_El_Libro_De_La_Selva_-_Busca_lo_mas_vital.jpg"
+  },
+  {
+    "id": 100,
+    "nombre_cancion": "Quiero ser como tú",
+    "artista": "El Libro De La Selva",
+    "genero": "Pop & Baladas",
+    "duracion": "03:17",
+    "duracion_segundos": 198,
+    "cover": "/covers/song_100_El_Libro_De_La_Selva_-_Quiero_ser_como_tu.jpg"
+  },
+  {
+    "id": 101,
+    "nombre_cancion": "El ciclo sin fin",
+    "artista": "El Rey León",
+    "genero": "Pop & Baladas",
+    "duracion": "03:59",
+    "duracion_segundos": 240,
+    "cover": "/covers/song_101_El_Rey_Leon_-_El_ciclo_sin_fin.jpg"
+  },
+  {
+    "id": 102,
+    "nombre_cancion": "Hakuna matata",
+    "artista": "El Rey León",
+    "genero": "Banda sonora",
+    "duracion": "03:49",
+    "duracion_segundos": 229,
+    "cover": "/covers/song_102_El_Rey_Leon_-_Hakuna_matata.jpg"
+  },
+  {
+    "id": 103,
+    "nombre_cancion": "Suavemente",
+    "artista": "Elvis Crespo",
+    "genero": "Merengue",
+    "duracion": "04:28",
+    "duracion_segundos": 268,
+    "cover": "/covers/song_103_Elvis_Crespo_-_Suavemente.jpg"
+  },
+  {
+    "id": 104,
+    "nombre_cancion": "La chica de humo",
+    "artista": "Emmanuel",
+    "genero": "Pop & Baladas",
+    "duracion": "05:23",
+    "duracion_segundos": 324,
+    "cover": "/covers/song_104_Emmanuel_-_La_chica_de_humo.jpg"
+  },
+  {
+    "id": 105,
+    "nombre_cancion": "La muralla verde",
+    "artista": "Enanitos Verdes",
+    "genero": "Pop & Baladas",
+    "duracion": "02:42",
+    "duracion_segundos": 162,
+    "cover": "/covers/song_105_Enanitos_Verdes_-_La_muralla_verde.jpg"
+  },
+  {
+    "id": 106,
+    "nombre_cancion": "Lamento boliviano",
+    "artista": "Enanitos verdes",
+    "genero": "Rock",
+    "duracion": "03:45",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_106_Enanitos_verdes_-_Lamento_boliviano.jpg"
+  },
+  {
+    "id": 107,
+    "nombre_cancion": "No se habla de Bruno",
+    "artista": "Encanto",
+    "genero": "Soundtrack",
+    "duracion": "03:28",
+    "duracion_segundos": 208,
+    "cover": "/covers/song_107_Encanto_-_No_se_habla_de_Bruno.jpg"
+  },
+  {
+    "id": 108,
+    "nombre_cancion": "Cuando me enamoro",
+    "artista": "Enrique Iglesias y Juan Luis Guerra",
+    "genero": "Pop Rock",
+    "duracion": "04:00",
+    "duracion_segundos": 241,
+    "cover": "/covers/song_108_Enrique_Iglesias_y_Juan_Luis_Guerra_-_Cuando_me_enamoro.jpg"
+  },
+  {
+    "id": 109,
+    "nombre_cancion": "No me digas que no",
+    "artista": "Enrique Iglesias, Wisin & Yandel",
+    "genero": "Reggaeton",
+    "duracion": "04:29",
+    "duracion_segundos": 269,
+    "cover": "/covers/song_109_Enrique_Iglesias_Wisin_Yandel_-_No_me_digas_que_no.jpg"
+  },
+  {
+    "id": 110,
+    "nombre_cancion": "La cosa más bella",
+    "artista": "Eros Ramazzotti",
+    "genero": "Pop Rock",
+    "duracion": "04:25",
+    "duracion_segundos": 266,
+    "cover": "/covers/song_110_Eros_Ramazzotti_-_La_cosa_mas_bella.jpg"
+  },
+  {
+    "id": 111,
+    "nombre_cancion": "Otra como tú",
+    "artista": "Eros Ramazzotti",
+    "genero": "Pop",
+    "duracion": "04:22",
+    "duracion_segundos": 263,
+    "cover": "/covers/song_111_Eros_Ramazzotti_-_Otra_como_tu.jpg"
+  },
+  {
+    "id": 112,
+    "nombre_cancion": "Ella baila sola",
+    "artista": "Eslabón Armado & Peso Pluma",
+    "genero": "Corridos tumbados",
+    "duracion": "02:45",
+    "duracion_segundos": 166,
+    "cover": "/covers/song_112_Eslabon_Armado_Peso_Pluma_-_Ella_baila_sola.jpeg"
+  },
+  {
+    "id": 113,
+    "nombre_cancion": "Intro",
+    "artista": "Espectacular Spider-Man",
+    "genero": "Rock",
+    "duracion": "01:00",
+    "duracion_segundos": 60,
+    "cover": "/covers/song_113_Espectacular_Spider-Man_-_Intro.jpg"
+  },
+  {
+    "id": 114,
+    "nombre_cancion": "Lo intentamos",
+    "artista": "Espinoza Paz",
+    "genero": "Balada Pop",
+    "duracion": "03:22",
+    "duracion_segundos": 202,
+    "cover": "/covers/song_114_Espinoza_Paz_-_Lo_intentamos.jpg"
+  },
+  {
+    "id": 115,
+    "nombre_cancion": "Olvido intencional",
+    "artista": "Espinoza Paz",
+    "genero": "Ranchera",
+    "duracion": "03:36",
+    "duracion_segundos": 217,
+    "cover": "/covers/song_115_Espinoza_Paz_-_Olvido_intencional.jpg"
+  },
+  {
+    "id": 116,
+    "nombre_cancion": "Con los ojos cerrados",
+    "artista": "Gloria Trevi",
+    "genero": "Pop & Baladas",
+    "duracion": "03:35",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_116_Gloria_Trevi_-_Con_los_ojos_cerrados.jpg"
+  },
+  {
+    "id": 117,
+    "nombre_cancion": "El recuento de los daños",
+    "artista": "Gloria Trevi",
+    "genero": "Pop & Baladas",
+    "duracion": "03:56",
+    "duracion_segundos": 236,
+    "cover": "/covers/song_117_Gloria_Trevi_-_El_recuento_de_los_danos.jpg"
+  },
+  {
+    "id": 118,
+    "nombre_cancion": "Me río de ti",
+    "artista": "Gloria Trevi",
+    "genero": "Pop",
+    "duracion": "03:54",
+    "duracion_segundos": 235,
+    "cover": "/covers/song_118_Gloria_Trevi_-_Me_rio_de_ti.jpg"
+  },
+  {
+    "id": 119,
+    "nombre_cancion": "Psicofonía",
+    "artista": "Gloria Trevi",
+    "genero": "Pop & Baladas",
+    "duracion": "03:18",
+    "duracion_segundos": 198,
+    "cover": "/covers/song_119_Gloria_Trevi_-_Psicofonia.jpg"
+  },
+  {
+    "id": 120,
+    "nombre_cancion": "Todos me miran",
+    "artista": "Gloria Trevi",
+    "genero": "Pop & Baladas",
+    "duracion": "03:27",
+    "duracion_segundos": 207,
+    "cover": "/covers/song_120_Gloria_Trevi_-_Todos_me_miran.jpg"
+  },
+  {
+    "id": 121,
+    "nombre_cancion": "Vestida de azúcar",
+    "artista": "Gloria Trevi",
+    "genero": "Pop",
+    "duracion": "04:06",
+    "duracion_segundos": 246,
+    "cover": "/covers/song_121_Gloria_Trevi_-_Vestida_de_azucar.jpg"
+  },
+  {
+    "id": 122,
+    "nombre_cancion": "¿Qué voy a hacer sin él?",
+    "artista": "Gloria Trevi",
+    "genero": "Pop",
+    "duracion": "03:21",
+    "duracion_segundos": 201,
+    "cover": "/covers/song_122_Gloria_Trevi_-_Que_voy_a_hacer_sin_el.jpg"
+  },
+  {
+    "id": 123,
+    "nombre_cancion": "Un x100to",
+    "artista": "Grupo Frontera - Bad Bunny",
+    "genero": "Regional Mexicana",
+    "duracion": "03:14",
+    "duracion_segundos": 195,
+    "cover": "/covers/song_123_Grupo_Frontera_-_Bad_Bunny_-_Un_x100to.jpg"
+  },
+  {
+    "id": 124,
+    "nombre_cancion": "No Se Va (En Vivo)",
+    "artista": "Grupo Frontera",
+    "genero": "Norteño",
+    "duracion": "03:14",
+    "duracion_segundos": 194,
+    "cover": "/covers/song_124_Grupo_Frontera_-_No_Se_Va_En_Vivo_.jpg"
+  },
+  {
+    "id": 125,
+    "nombre_cancion": "Ojitos rojos",
+    "artista": "Grupo Frontera y Ke Personajes",
+    "genero": "Cumbia",
+    "duracion": "03:51",
+    "duracion_segundos": 231,
+    "cover": "/covers/song_125_Grupo_Frontera_y_Ke_Personajes_-_Ojitos_rojos.png"
+  },
+  {
+    "id": 126,
+    "nombre_cancion": "Estés en donde estés",
+    "artista": "Ha-Ash",
+    "genero": "Pop & Baladas",
+    "duracion": "04:01",
+    "duracion_segundos": 242,
+    "cover": "/covers/song_126_Ha-Ash_-_Estes_en_donde_estes.jpg"
+  },
+  {
+    "id": 127,
+    "nombre_cancion": "Lo aprendí de ti",
+    "artista": "Ha-Ash",
+    "genero": "Balada",
+    "duracion": "03:16",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_127_Ha-Ash_-_Lo_aprendi_de_ti.jpg"
+  },
+  {
+    "id": 128,
+    "nombre_cancion": "Perdón, perdón",
+    "artista": "Ha-Ash",
+    "genero": "Balada",
+    "duracion": "03:39",
+    "duracion_segundos": 220,
+    "cover": "/covers/song_128_Ha-Ash_-_Perdon_perdon.jpg"
+  },
+  {
+    "id": 129,
+    "nombre_cancion": "Qué hago yo",
+    "artista": "Ha-Ash",
+    "genero": "Balada",
+    "duracion": "03:26",
+    "duracion_segundos": 206,
+    "cover": "/covers/song_129_Ha-Ash_-_Que_hago_yo.jpg"
+  },
+  {
+    "id": 130,
+    "nombre_cancion": "Te dejo en libertad",
+    "artista": "Ha-Ash",
+    "genero": "Pop & Baladas",
+    "duracion": "03:56",
+    "duracion_segundos": 237,
+    "cover": "/covers/song_130_Ha-Ash_-_Te_dejo_en_libertad.jpg"
+  },
+  {
+    "id": 131,
+    "nombre_cancion": "Todo no fue suficiente",
+    "artista": "Ha-Ash",
+    "genero": "Pop",
+    "duracion": "03:36",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_131_Ha-Ash_-_Todo_no_fue_suficiente.jpg"
+  },
+  {
+    "id": 132,
+    "nombre_cancion": "En marcha estoy",
+    "artista": "Hermano Oso",
+    "genero": "Pop & Baladas",
+    "duracion": "03:39",
+    "duracion_segundos": 219,
+    "cover": "/covers/song_132_Hermano_Oso_-_En_marcha_estoy.jpg"
+  },
+  {
+    "id": 133,
+    "nombre_cancion": "Devuélveme A Mi Chica",
+    "artista": "Hombres G",
+    "genero": "Pop",
+    "duracion": "03:13",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_133_Hombres_G_-_Devuelveme_A_Mi_Chica.jpg"
+  },
+  {
+    "id": 134,
+    "nombre_cancion": "Marta tiene un marcapasos",
+    "artista": "Hombres G",
+    "genero": "Pop & Baladas",
+    "duracion": "02:12",
+    "duracion_segundos": 132,
+    "cover": "/covers/song_134_Hombres_G_-_Marta_tiene_un_marcapasos.jpg"
+  },
+  {
+    "id": 135,
+    "nombre_cancion": "Te quiero",
+    "artista": "Hombres G",
+    "genero": "Pop & Baladas",
+    "duracion": "03:50",
+    "duracion_segundos": 230,
+    "cover": "/covers/song_135_Hombres_G_-_Te_quiero.jpg"
+  },
+  {
+    "id": 136,
+    "nombre_cancion": "Venezia",
+    "artista": "Hombres G",
+    "genero": "Pop",
+    "duracion": "04:32",
+    "duracion_segundos": 273,
+    "cover": "/covers/song_136_Hombres_G_-_Venezia.jpg"
+  },
+  {
+    "id": 137,
+    "nombre_cancion": "Peaches (De \"Super Mario Bros: La Película\")",
+    "artista": "Héctor Estrada",
+    "genero": "Soundtrack",
+    "duracion": "01:49",
+    "duracion_segundos": 109,
+    "cover": "/covers/song_137_Hector_Estrada_-_Peaches_De_Super_Mario_Bros_La_Pelicula_.jpeg"
+  },
+  {
+    "id": 138,
+    "nombre_cancion": "UNRAVEL",
+    "artista": "Ilonka Obilinovic",
+    "genero": "Fandub",
+    "duracion": "03:58",
+    "duracion_segundos": 238,
+    "cover": "/covers/song_138_Ilonka_Obilinovic_-_UNRAVEL.jpg"
+  },
+  {
+    "id": 139,
+    "nombre_cancion": "6 AM",
+    "artista": "J Balvin & Farruko",
+    "genero": "Reguetón",
+    "duracion": "04:03",
+    "duracion_segundos": 243,
+    "cover": "/covers/song_139_J_Balvin_Farruko_-_6_AM.png"
+  },
+  {
+    "id": 140,
+    "nombre_cancion": "Te lo pido por favor",
+    "artista": "Jaguares",
+    "genero": "Pop & Baladas",
+    "duracion": "03:27",
+    "duracion_segundos": 208,
+    "cover": "/covers/song_140_Jaguares_-_Te_lo_pido_por_favor.jpg"
+  },
+  {
+    "id": 141,
+    "nombre_cancion": "La Flaca",
+    "artista": "Jarabe de Palo",
+    "genero": "Rock",
+    "duracion": "04:22",
+    "duracion_segundos": 262,
+    "cover": "/covers/song_141_Jarabe_de_Palo_-_La_Flaca.jpg"
+  },
+  {
+    "id": 142,
+    "nombre_cancion": "Corazón de poeta",
+    "artista": "Jeanette",
+    "genero": "Balada",
+    "duracion": "04:34",
+    "duracion_segundos": 274,
+    "cover": "/covers/song_142_Jeanette_-_Corazon_de_poeta.jpg"
+  },
+  {
+    "id": 143,
+    "nombre_cancion": "Frente a frente",
+    "artista": "Jeanette",
+    "genero": "Pop & Baladas",
+    "duracion": "03:16",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_143_Jeanette_-_Frente_a_frente.jpg"
+  },
+  {
+    "id": 144,
+    "nombre_cancion": "Porque te vas",
+    "artista": "Jeanette",
+    "genero": "Pop & Baladas",
+    "duracion": "03:18",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_144_Jeanette_-_Porque_te_vas.jpg"
+  },
+  {
+    "id": 145,
+    "nombre_cancion": "Soy rebelde",
+    "artista": "Jeanette",
+    "genero": "Pop & Baladas",
+    "duracion": "03:12",
+    "duracion_segundos": 192,
+    "cover": "/covers/song_145_Jeanette_-_Soy_rebelde.jpg"
+  },
+  {
+    "id": 146,
+    "nombre_cancion": "No me ames (versión balada)",
+    "artista": "Jennifer Lopez y Marc Anthony",
+    "genero": "Pop & Baladas",
+    "duracion": "04:47",
+    "duracion_segundos": 288,
+    "cover": "/covers/song_146_Jennifer_Lopez_y_Marc_Anthony_-_No_me_ames_version_balada_.jpg"
+  },
+  {
+    "id": 147,
+    "nombre_cancion": "Dueles",
+    "artista": "Jesse & Joy",
+    "genero": "Pop & Baladas",
+    "duracion": "04:07",
+    "duracion_segundos": 248,
+    "cover": "/covers/song_147_Jesse_Joy_-_Dueles.jpg"
+  },
+  {
+    "id": 148,
+    "nombre_cancion": "¡Corre!",
+    "artista": "Jesse & Joy",
+    "genero": "Pop",
+    "duracion": "05:54",
+    "duracion_segundos": 354,
+    "cover": "/covers/song_148_Jesse_Joy_-_Corre_.jpg"
+  },
+  {
+    "id": 149,
+    "nombre_cancion": "¿Con quién se queda el perro?",
+    "artista": "Jesse & Joy",
+    "genero": "Pop & Baladas",
+    "duracion": "03:46",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_149_Jesse_Joy_-_Con_quien_se_queda_el_perro.jpg"
+  },
+  {
+    "id": 150,
+    "nombre_cancion": "25 rosas",
+    "artista": "Joan Sebastian",
+    "genero": "Pop & Baladas",
+    "duracion": "02:59",
+    "duracion_segundos": 180,
+    "cover": "/covers/song_150_Joan_Sebastian_-_25_rosas.jpg"
+  },
+  {
+    "id": 151,
+    "nombre_cancion": "Hasta que amanezca",
+    "artista": "Joan Sebastian",
+    "genero": "Pop & Baladas",
+    "duracion": "03:03",
+    "duracion_segundos": 184,
+    "cover": "/covers/song_151_Joan_Sebastian_-_Hasta_que_amanezca.jpg"
+  },
+  {
+    "id": 152,
+    "nombre_cancion": "Secreto de amor",
+    "artista": "Joan Sebastian",
+    "genero": "Balada",
+    "duracion": "04:33",
+    "duracion_segundos": 273,
+    "cover": "/covers/song_152_Joan_Sebastian_-_Secreto_de_amor.jpg"
+  },
+  {
+    "id": 153,
+    "nombre_cancion": "Tatuajes",
+    "artista": "Joan Sebastian",
+    "genero": "Pop & Baladas",
+    "duracion": "03:36",
+    "duracion_segundos": 217,
+    "cover": "/covers/song_153_Joan_Sebastian_-_Tatuajes.jpg"
+  },
+  {
+    "id": 154,
+    "nombre_cancion": "Un idiota",
+    "artista": "Joan Sebastian",
+    "genero": "Pop & Baladas",
+    "duracion": "03:21",
+    "duracion_segundos": 201,
+    "cover": "/covers/song_154_Joan_Sebastian_-_Un_idiota.jpg"
+  },
+  {
+    "id": 155,
+    "nombre_cancion": "Rumores",
+    "artista": "Joan Sebastian y Lisa López",
+    "genero": "Pop & Baladas",
+    "duracion": "03:45",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_155_Joan_Sebastian_y_Lisa_Lopez_-_Rumores.jpg"
+  },
+  {
+    "id": 156,
+    "nombre_cancion": "Vuela, pega y esquiva (TV)",
+    "artista": "Josafat Espinosa",
+    "genero": "Pop & Baladas",
+    "duracion": "01:23",
+    "duracion_segundos": 83,
+    "cover": "/covers/song_156_Josafat_Espinosa_-_Vuela_pega_y_esquiva_TV_.jpg"
+  },
+  {
+    "id": 157,
+    "nombre_cancion": "Almohada",
+    "artista": "José José",
+    "genero": "Pop & Baladas",
+    "duracion": "03:32",
+    "duracion_segundos": 213,
+    "cover": "/covers/song_157_Jose_Jose_-_Almohada.jpg"
+  },
+  {
+    "id": 158,
+    "nombre_cancion": "Amar y querer",
+    "artista": "José José",
+    "genero": "Balada",
+    "duracion": "03:54",
+    "duracion_segundos": 234,
+    "cover": "/covers/song_158_Jose_Jose_-_Amar_y_querer.jpg"
+  },
+  {
+    "id": 159,
+    "nombre_cancion": "Desesperado",
+    "artista": "José José",
+    "genero": "Pop & Baladas",
+    "duracion": "03:35",
+    "duracion_segundos": 216,
+    "cover": "/covers/song_159_Jose_Jose_-_Desesperado.jpg"
+  },
+  {
+    "id": 160,
+    "nombre_cancion": "El triste",
+    "artista": "José José",
+    "genero": "Pop & Baladas",
+    "duracion": "04:13",
+    "duracion_segundos": 253,
+    "cover": "/covers/song_160_Jose_Jose_-_El_triste.jpg"
+  },
+  {
+    "id": 161,
+    "nombre_cancion": "Gavilán o paloma",
+    "artista": "José José",
+    "genero": "Balada",
+    "duracion": "04:05",
+    "duracion_segundos": 245,
+    "cover": "/covers/song_161_Jose_Jose_-_Gavilan_o_paloma.jpg"
+  },
+  {
+    "id": 162,
+    "nombre_cancion": "Lo pasado, pasado",
+    "artista": "José José",
+    "genero": "Pop & Baladas",
+    "duracion": "04:11",
+    "duracion_segundos": 251,
+    "cover": "/covers/song_162_Jose_Jose_-_Lo_pasado_pasado.jpg"
+  },
+  {
+    "id": 163,
+    "nombre_cancion": "Abrázame muy fuerte",
+    "artista": "Juan Gabriel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:03",
+    "duracion_segundos": 243,
+    "cover": "/covers/song_163_Juan_Gabriel_-_Abrazame_muy_fuerte.jpg"
+  },
+  {
+    "id": 164,
+    "nombre_cancion": "Así fue",
+    "artista": "Juan Gabriel",
+    "genero": "Pop & Baladas",
+    "duracion": "07:27",
+    "duracion_segundos": 447,
+    "cover": "/covers/song_164_Juan_Gabriel_-_Asi_fue.jpg"
+  },
+  {
+    "id": 165,
+    "nombre_cancion": "Querida",
+    "artista": "Juan Gabriel",
+    "genero": "Pop & Baladas",
+    "duracion": "05:14",
+    "duracion_segundos": 315,
+    "cover": "/covers/song_165_Juan_Gabriel_-_Querida.jpg"
+  },
+  {
+    "id": 166,
+    "nombre_cancion": "Déjame vivir",
+    "artista": "Juan Gabriel y Rocío Dúrcal",
+    "genero": "Pop & Baladas",
+    "duracion": "03:46",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_166_Juan_Gabriel_y_Rocio_Durcal_-_Dejame_vivir.jpg"
+  },
+  {
+    "id": 167,
+    "nombre_cancion": "El destino",
+    "artista": "Juan Gabriel y Rocío Dúrcal",
+    "genero": "Pop & Baladas",
+    "duracion": "04:42",
+    "duracion_segundos": 282,
+    "cover": "/covers/song_167_Juan_Gabriel_y_Rocio_Durcal_-_El_destino.jpg"
+  },
+  {
+    "id": 168,
+    "nombre_cancion": "A Dios le pido",
+    "artista": "Juanes",
+    "genero": "Pop & Baladas",
+    "duracion": "03:26",
+    "duracion_segundos": 207,
+    "cover": "/covers/song_168_Juanes_-_A_Dios_le_pido.jpg"
+  },
+  {
+    "id": 169,
+    "nombre_cancion": "La camisa negra",
+    "artista": "Juanes",
+    "genero": "Pop & Baladas",
+    "duracion": "04:06",
+    "duracion_segundos": 246,
+    "cover": "/covers/song_169_Juanes_-_La_camisa_negra.jpg"
+  },
+  {
+    "id": 170,
+    "nombre_cancion": "Mi burrito sabanero",
+    "artista": "Juanes",
+    "genero": "Villancico",
+    "duracion": "02:54",
+    "duracion_segundos": 174,
+    "cover": "/covers/song_170_Juanes_-_Mi_burrito_sabanero.jpg"
+  },
+  {
+    "id": 171,
+    "nombre_cancion": "Algo está cambiando",
+    "artista": "Julieta Venegas",
+    "genero": "Pop Rock",
+    "duracion": "04:04",
+    "duracion_segundos": 244,
+    "cover": "/covers/song_171_Julieta_Venegas_-_Algo_esta_cambiando.jpg"
+  },
+  {
+    "id": 172,
+    "nombre_cancion": "Limón Y Sal",
+    "artista": "Julieta Venegas",
+    "genero": "Pop",
+    "duracion": "03:35",
+    "duracion_segundos": 215,
+    "cover": "/covers/song_172_Julieta_Venegas_-_Limon_Y_Sal.jpg"
+  },
+  {
+    "id": 173,
+    "nombre_cancion": "Me voy",
+    "artista": "Julieta Venegas",
+    "genero": "Other",
+    "duracion": "03:08",
+    "duracion_segundos": 188,
+    "cover": "/covers/song_173_Julieta_Venegas_-_Me_voy.jpg"
+  },
+  {
+    "id": 174,
+    "nombre_cancion": "Eres para mí",
+    "artista": "Julieta Venegas y Anita Tijoux",
+    "genero": "Pop",
+    "duracion": "03:18",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_174_Julieta_Venegas_y_Anita_Tijoux_-_Eres_para_mi.jpg"
+  },
+  {
+    "id": 175,
+    "nombre_cancion": "Muévelo",
+    "artista": "Kali Uchis",
+    "genero": "Reguetón",
+    "duracion": "01:01",
+    "duracion_segundos": 61,
+    "cover": "/covers/song_175_Kali_Uchis_-_Muevelo.jpg"
+  },
+  {
+    "id": 176,
+    "nombre_cancion": "Telepatía",
+    "artista": "Kali Uchis",
+    "genero": "Pop & Baladas",
+    "duracion": "02:49",
+    "duracion_segundos": 170,
+    "cover": "/covers/song_176_Kali_Uchis_-_Telepatia.jpg"
+  },
+  {
+    "id": 177,
+    "nombre_cancion": "Si antes te hubiera conocido",
+    "artista": "KAROL G",
+    "genero": "Latino",
+    "duracion": "03:15",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_177_KAROL_G_-_Si_antes_te_hubiera_conocido.jpg"
+  },
+  {
+    "id": 178,
+    "nombre_cancion": "Malas decisiones",
+    "artista": "Kenia Os",
+    "genero": "Pop",
+    "duracion": "02:19",
+    "duracion_segundos": 139,
+    "cover": "/covers/song_178_Kenia_Os_-_Malas_decisiones.jpg"
+  },
+  {
+    "id": 179,
+    "nombre_cancion": "Perdóname",
+    "artista": "La Factoria & Eddy Lover",
+    "genero": "Reggaeton",
+    "duracion": "03:47",
+    "duracion_segundos": 227,
+    "cover": "/covers/song_179_La_Factoria_Eddy_Lover_-_Perdoname.jpg"
+  },
+  {
+    "id": 180,
+    "nombre_cancion": "Todavía",
+    "artista": "La Factoría",
+    "genero": "Latino",
+    "duracion": "03:23",
+    "duracion_segundos": 203,
+    "cover": "/covers/song_180_La_Factoria_-_Todavia.jpg"
+  },
+  {
+    "id": 181,
+    "nombre_cancion": "Noche de paz",
+    "artista": "La Oreja de Van Gogh",
+    "genero": "Vocal",
+    "duracion": "02:34",
+    "duracion_segundos": 154,
+    "cover": "/covers/song_181_La_Oreja_de_Van_Gogh_-_Noche_de_paz.jpg"
+  },
+  {
+    "id": 182,
+    "nombre_cancion": "El sol no regresa",
+    "artista": "La Quinta Estación",
+    "genero": "Pop & Baladas",
+    "duracion": "03:48",
+    "duracion_segundos": 228,
+    "cover": "/covers/song_182_La_Quinta_Estacion_-_El_sol_no_regresa.jpg"
+  },
+  {
+    "id": 183,
+    "nombre_cancion": "Me muero",
+    "artista": "La Quinta Estación",
+    "genero": "Pop",
+    "duracion": "03:15",
+    "duracion_segundos": 195,
+    "cover": "/covers/song_183_La_Quinta_Estacion_-_Me_muero.jpg"
+  },
+  {
+    "id": 184,
+    "nombre_cancion": "Bajo el mar",
+    "artista": "La Sirenita",
+    "genero": "Pop & Baladas",
+    "duracion": "03:05",
+    "duracion_segundos": 186,
+    "cover": "/covers/song_184_La_Sirenita_-_Bajo_el_mar.jpg"
+  },
+  {
+    "id": 185,
+    "nombre_cancion": "Somos las gemas de cristal",
+    "artista": "Las gemas de cristal",
+    "genero": "Pop & Baladas",
+    "duracion": "00:26",
+    "duracion_segundos": 26,
+    "cover": "/covers/song_185_Las_gemas_de_cristal_-_Somos_las_gemas_de_cristal.jpg"
+  },
+  {
+    "id": 186,
+    "nombre_cancion": "Los guardianes del universo",
+    "artista": "Los Caballeros del Zodiaco",
+    "genero": "Anime",
+    "duracion": "01:17",
+    "duracion_segundos": 78,
+    "cover": "/covers/song_186_Los_Caballeros_del_Zodiaco_-_Los_guardianes_del_universo.jpg"
+  },
+  {
+    "id": 187,
+    "nombre_cancion": "Negro y azul (The ballad of Heisenberg)",
+    "artista": "Los Cuates De Sinaloa (Breaking Bad)",
+    "genero": "Folk",
+    "duracion": "03:42",
+    "duracion_segundos": 222,
+    "cover": "/covers/song_187_Los_Cuates_De_Sinaloa_Breaking_Bad_-_Negro_y_azul_The_ballad_of_Heisenberg_.jpg"
+  },
+  {
+    "id": 188,
+    "nombre_cancion": "Los Reyes Magos",
+    "artista": "Los Fronterizos",
+    "genero": "Villancico",
+    "duracion": "02:06",
+    "duracion_segundos": 127,
+    "cover": "/covers/song_188_Los_Fronterizos_-_Los_Reyes_Magos.jpg"
+  },
+  {
+    "id": 189,
+    "nombre_cancion": "La mujer de los dos",
+    "artista": "Los Temerarios",
+    "genero": "Pop & Baladas",
+    "duracion": "05:02",
+    "duracion_segundos": 302,
+    "cover": "/covers/song_189_Los_Temerarios_-_La_mujer_de_los_dos.jpg"
+  },
+  {
+    "id": 190,
+    "nombre_cancion": "Te quiero",
+    "artista": "Los Temerarios",
+    "genero": "Pop & Baladas",
+    "duracion": "03:12",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_190_Los_Temerarios_-_Te_quiero.jpg"
+  },
+  {
+    "id": 191,
+    "nombre_cancion": "Golpes en el Corazón",
+    "artista": "Los Tigres del Norte & Paulina Rubio",
+    "genero": "Norteño",
+    "duracion": "05:08",
+    "duracion_segundos": 308,
+    "cover": "/covers/song_191_Los_Tigres_del_Norte_Paulina_Rubio_-_Golpes_en_el_Corazon.jpg"
+  },
+  {
+    "id": 192,
+    "nombre_cancion": "California",
+    "artista": "Los Vaguens",
+    "genero": "Rock",
+    "duracion": "03:16",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_192_Los_Vaguens_-_California.jpg"
+  },
+  {
+    "id": 193,
+    "nombre_cancion": "Otra Noche",
+    "artista": "Los Ángeles Azules & NICKI NICOLE",
+    "genero": "Cumbia",
+    "duracion": "03:18",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_193_Los_Angeles_Azules_NICKI_NICOLE_-_Otra_Noche.jpg"
+  },
+  {
+    "id": 194,
+    "nombre_cancion": "Cómo te voy a olvidar",
+    "artista": "Los Ángeles Azules",
+    "genero": "Pop & Baladas",
+    "duracion": "04:29",
+    "duracion_segundos": 270,
+    "cover": "/covers/song_194_Los_Angeles_Azules_-_Como_te_voy_a_olvidar.jpg"
+  },
+  {
+    "id": 195,
+    "nombre_cancion": "Yo no sé mañana",
+    "artista": "Luis Enrique",
+    "genero": "Salsa",
+    "duracion": "04:19",
+    "duracion_segundos": 260,
+    "cover": "/covers/song_195_Luis_Enrique_-_Yo_no_se_manana.jpg"
+  },
+  {
+    "id": 196,
+    "nombre_cancion": "Despacito",
+    "artista": "Luis Fonsi feat. Daddy Yankee",
+    "genero": "Pop & Baladas",
+    "duracion": "03:47",
+    "duracion_segundos": 228,
+    "cover": "/covers/song_196_Luis_Fonsi_feat_Daddy_Yankee_-_Despacito.jpg"
+  },
+  {
+    "id": 197,
+    "nombre_cancion": "Échame la culpa",
+    "artista": "Luis Fonsi y Demi Lovato",
+    "genero": "Pop",
+    "duracion": "02:53",
+    "duracion_segundos": 174,
+    "cover": "/covers/song_197_Luis_Fonsi_y_Demi_Lovato_-_Echame_la_culpa.jpg"
+  },
+  {
+    "id": 198,
+    "nombre_cancion": "Ahora te puedes marchar",
+    "artista": "Luis Miguel",
+    "genero": "Pop",
+    "duracion": "03:10",
+    "duracion_segundos": 191,
+    "cover": "/covers/song_198_Luis_Miguel_-_Ahora_te_puedes_marchar.jpg"
+  },
+  {
+    "id": 199,
+    "nombre_cancion": "Blanca Navidad",
+    "artista": "Luis Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "03:30",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_199_Luis_Miguel_-_Blanca_Navidad.jpg"
+  },
+  {
+    "id": 200,
+    "nombre_cancion": "Entrégate",
+    "artista": "Luis Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:24",
+    "duracion_segundos": 264,
+    "cover": "/covers/song_200_Luis_Miguel_-_Entregate.jpg"
+  },
+  {
+    "id": 201,
+    "nombre_cancion": "La chica del bikini azul",
+    "artista": "Luis Miguel",
+    "genero": "Latino",
+    "duracion": "02:58",
+    "duracion_segundos": 179,
+    "cover": "/covers/song_201_Luis_Miguel_-_La_chica_del_bikini_azul.jpg"
+  },
+  {
+    "id": 202,
+    "nombre_cancion": "La incondicional",
+    "artista": "Luis Miguel",
+    "genero": "Pop & Baladas",
+    "duracion": "04:09",
+    "duracion_segundos": 249,
+    "cover": "/covers/song_202_Luis_Miguel_-_La_incondicional.jpg"
+  },
+  {
+    "id": 203,
+    "nombre_cancion": "Noche de paz",
+    "artista": "Luis Miguel",
+    "genero": "Villancicos",
+    "duracion": "03:37",
+    "duracion_segundos": 218,
+    "cover": "/covers/song_203_Luis_Miguel_-_Noche_de_paz.jpg"
+  },
+  {
+    "id": 204,
+    "nombre_cancion": "Santa Claus llegó a la ciudad",
+    "artista": "Luis Miguel",
+    "genero": "Latin",
+    "duracion": "01:56",
+    "duracion_segundos": 117,
+    "cover": "/covers/song_204_Luis_Miguel_-_Santa_Claus_llego_a_la_ciudad.jpg"
+  },
+  {
+    "id": 205,
+    "nombre_cancion": "El latido de mi corazón (De \"Coco\")",
+    "artista": "Luis Ángel Gómez Jaramillo",
+    "genero": "Soundtrack",
+    "duracion": "02:01",
+    "duracion_segundos": 122,
+    "cover": "/covers/song_205_Luis_Angel_Gomez_Jaramillo_-_El_latido_de_mi_corazon_De_Coco_.jpg"
+  },
+  {
+    "id": 206,
+    "nombre_cancion": "Borro Cassette",
+    "artista": "Maluma",
+    "genero": "Reggaetón",
+    "duracion": "03:27",
+    "duracion_segundos": 207,
+    "cover": "/covers/song_206_Maluma_-_Borro_Cassette.jpg"
+  },
+  {
+    "id": 207,
+    "nombre_cancion": "El perdedor",
+    "artista": "Maluma",
+    "genero": "Pop / Reggaeton",
+    "duracion": "03:27",
+    "duracion_segundos": 207,
+    "cover": "/covers/song_207_Maluma_-_El_perdedor.jpg"
+  },
+  {
+    "id": 208,
+    "nombre_cancion": "Felices los 4",
+    "artista": "Maluma",
+    "genero": "Pop & Baladas",
+    "duracion": "03:51",
+    "duracion_segundos": 232,
+    "cover": "/covers/song_208_Maluma_-_Felices_los_4.jpg"
+  },
+  {
+    "id": 209,
+    "nombre_cancion": "Hawái",
+    "artista": "Maluma",
+    "genero": "Reguetón lento",
+    "duracion": "03:18",
+    "duracion_segundos": 198,
+    "cover": "/covers/song_209_Maluma_-_Hawai.jpg"
+  },
+  {
+    "id": 210,
+    "nombre_cancion": "Amor clandestino",
+    "artista": "Maná",
+    "genero": "Pop",
+    "duracion": "04:51",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_210_Mana_-_Amor_clandestino.jpg"
+  },
+  {
+    "id": 211,
+    "nombre_cancion": "Clavado en un bar",
+    "artista": "Maná",
+    "genero": "90's Español",
+    "duracion": "04:21",
+    "duracion_segundos": 261,
+    "cover": "/covers/song_211_Mana_-_Clavado_en_un_bar.jpg"
+  },
+  {
+    "id": 212,
+    "nombre_cancion": "El rey tiburón",
+    "artista": "Maná",
+    "genero": "Pop & Baladas",
+    "duracion": "04:51",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_212_Mana_-_El_rey_tiburon.jpg"
+  },
+  {
+    "id": 213,
+    "nombre_cancion": "El verdadero amor perdona",
+    "artista": "Maná",
+    "genero": "Rock",
+    "duracion": "04:41",
+    "duracion_segundos": 281,
+    "cover": "/covers/song_213_Mana_-_El_verdadero_amor_perdona.jpg"
+  },
+  {
+    "id": 214,
+    "nombre_cancion": "En el muelle de San Blas",
+    "artista": "Maná",
+    "genero": "Pop & Baladas",
+    "duracion": "05:52",
+    "duracion_segundos": 353,
+    "cover": "/covers/song_214_Mana_-_En_el_muelle_de_San_Blas.jpg"
+  },
+  {
+    "id": 215,
+    "nombre_cancion": "Eres mi religión",
+    "artista": "Maná",
+    "genero": "Pop & Baladas",
+    "duracion": "05:28",
+    "duracion_segundos": 329,
+    "cover": "/covers/song_215_Mana_-_Eres_mi_religion.jpg"
+  },
+  {
+    "id": 216,
+    "nombre_cancion": "Labios compartidos",
+    "artista": "Maná",
+    "genero": "Rock",
+    "duracion": "04:45",
+    "duracion_segundos": 286,
+    "cover": "/covers/song_216_Mana_-_Labios_compartidos.jpg"
+  },
+  {
+    "id": 217,
+    "nombre_cancion": "Lluvia al corazón",
+    "artista": "Maná",
+    "genero": "Pop",
+    "duracion": "04:09",
+    "duracion_segundos": 249,
+    "cover": "/covers/song_217_Mana_-_Lluvia_al_corazon.jpg"
+  },
+  {
+    "id": 218,
+    "nombre_cancion": "Manda una señal",
+    "artista": "Maná",
+    "genero": "Pop & Baladas",
+    "duracion": "04:51",
+    "duracion_segundos": 292,
+    "cover": "/covers/song_218_Mana_-_Manda_una_senal.jpg"
+  },
+  {
+    "id": 219,
+    "nombre_cancion": "Mariposa traicionera",
+    "artista": "Maná",
+    "genero": "Rock Latino",
+    "duracion": "04:32",
+    "duracion_segundos": 272,
+    "cover": "/covers/song_219_Mana_-_Mariposa_traicionera.jpg"
+  },
+  {
+    "id": 220,
+    "nombre_cancion": "Oye mi amor",
+    "artista": "Maná",
+    "genero": "Pop Rock",
+    "duracion": "04:36",
+    "duracion_segundos": 277,
+    "cover": "/covers/song_220_Mana_-_Oye_mi_amor.jpg"
+  },
+  {
+    "id": 221,
+    "nombre_cancion": "Si no te hubieras ido",
+    "artista": "Maná",
+    "genero": "Pop & Baladas",
+    "duracion": "04:31",
+    "duracion_segundos": 271,
+    "cover": "/covers/song_221_Mana_-_Si_no_te_hubieras_ido.jpg"
+  },
+  {
+    "id": 222,
+    "nombre_cancion": "Ángel de amor",
+    "artista": "Maná",
+    "genero": "Pop Rock",
+    "duracion": "05:23",
+    "duracion_segundos": 323,
+    "cover": "/covers/song_222_Mana_-_Angel_de_amor.jpg"
+  },
+  {
+    "id": 223,
+    "nombre_cancion": "Bendita tu luz",
+    "artista": "Maná y Juan Luís Guerra",
+    "genero": "Pop & Baladas",
+    "duracion": "04:26",
+    "duracion_segundos": 266,
+    "cover": "/covers/song_223_Mana_y_Juan_Luis_Guerra_-_Bendita_tu_luz.jpg"
+  },
+  {
+    "id": 224,
+    "nombre_cancion": "Donde estará mi primavera",
+    "artista": "Marco Antonio Solis",
+    "genero": "Pop & Baladas",
+    "duracion": "04:12",
+    "duracion_segundos": 252,
+    "cover": "/covers/song_224_Marco_Antonio_Solis_-_Donde_estara_mi_primavera.jpg"
+  },
+  {
+    "id": 225,
+    "nombre_cancion": "Cuando te acuerdes de mí",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:44",
+    "duracion_segundos": 284,
+    "cover": "/covers/song_225_Marco_Antonio_Solis_-_Cuando_te_acuerdes_de_mi.jpg"
+  },
+  {
+    "id": 226,
+    "nombre_cancion": "La venia bendita",
+    "artista": "Marco Antonio Solís",
+    "genero": "Ranchera",
+    "duracion": "03:13",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_226_Marco_Antonio_Solis_-_La_venia_bendita.jpg"
+  },
+  {
+    "id": 227,
+    "nombre_cancion": "Mi eterno amor secreto",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "03:45",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_227_Marco_Antonio_Solis_-_Mi_eterno_amor_secreto.jpg"
+  },
+  {
+    "id": 228,
+    "nombre_cancion": "Más que tu amigo",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "03:30",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_228_Marco_Antonio_Solis_-_Mas_que_tu_amigo.jpg"
+  },
+  {
+    "id": 229,
+    "nombre_cancion": "O me voy o te vas",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:49",
+    "duracion_segundos": 290,
+    "cover": "/covers/song_229_Marco_Antonio_Solis_-_O_me_voy_o_te_vas.jpg"
+  },
+  {
+    "id": 230,
+    "nombre_cancion": "Recuerdos, tristeza y soledad",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:27",
+    "duracion_segundos": 267,
+    "cover": "/covers/song_230_Marco_Antonio_Solis_-_Recuerdos_tristeza_y_soledad.jpg"
+  },
+  {
+    "id": 231,
+    "nombre_cancion": "Si no te hubieras ido",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:49",
+    "duracion_segundos": 290,
+    "cover": "/covers/song_231_Marco_Antonio_Solis_-_Si_no_te_hubieras_ido.jpg"
+  },
+  {
+    "id": 232,
+    "nombre_cancion": "Si te pudiera mentir",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:23",
+    "duracion_segundos": 263,
+    "cover": "/covers/song_232_Marco_Antonio_Solis_-_Si_te_pudiera_mentir.jpg"
+  },
+  {
+    "id": 233,
+    "nombre_cancion": "Sin lado izquierdo",
+    "artista": "Marco Antonio Solís",
+    "genero": "Balada",
+    "duracion": "04:30",
+    "duracion_segundos": 270,
+    "cover": "/covers/song_233_Marco_Antonio_Solis_-_Sin_lado_izquierdo.jpg"
+  },
+  {
+    "id": 234,
+    "nombre_cancion": "¿A dónde vamos a parar?",
+    "artista": "Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "04:27",
+    "duracion_segundos": 267,
+    "cover": "/covers/song_234_Marco_Antonio_Solis_-_A_donde_vamos_a_parar.jpg"
+  },
+  {
+    "id": 235,
+    "nombre_cancion": "Romance te puedo dar (TV)",
+    "artista": "Marisa De Lille",
+    "genero": "Anime",
+    "duracion": "01:37",
+    "duracion_segundos": 97,
+    "cover": "/covers/song_235_Marisa_De_Lille_-_Romance_te_puedo_dar_TV_.jpg"
+  },
+  {
+    "id": 236,
+    "nombre_cancion": "La pareja ideal",
+    "artista": "Marisela y Marco Antonio Solís",
+    "genero": "Pop & Baladas",
+    "duracion": "03:08",
+    "duracion_segundos": 189,
+    "cover": "/covers/song_236_Marisela_y_Marco_Antonio_Solis_-_La_pareja_ideal.jpg"
+  },
+  {
+    "id": 237,
+    "nombre_cancion": "Destino o casualidad",
+    "artista": "Melendi y Ha*Ash",
+    "genero": "Pop",
+    "duracion": "04:18",
+    "duracion_segundos": 258,
+    "cover": "/covers/song_237_Melendi_y_Ha_Ash_-_Destino_o_casualidad.jpg"
+  },
+  {
+    "id": 238,
+    "nombre_cancion": "Bad",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "duracion": "03:30",
+    "duracion_segundos": 0,
+    "cover": "/covers/song_238_Michael_Jackson_-_Bad.jpg"
+  },
+  {
+    "id": 239,
+    "nombre_cancion": "Beat It",
+    "artista": "Michael Jackson",
+    "genero": "Pop Internacional",
+    "duracion": "04:19",
+    "duracion_segundos": 259,
+    "cover": "/covers/song_239_Michael_Jackson_-_Beat_It.jpg"
+  },
+  {
+    "id": 240,
+    "nombre_cancion": "Billie Jean",
+    "artista": "Michael Jackson",
+    "genero": "Pop & Baladas",
+    "duracion": "04:58",
+    "duracion_segundos": 298,
+    "cover": "/covers/song_240_Michael_Jackson_-_Billie_Jean.jpg"
+  },
+  {
+    "id": 241,
+    "nombre_cancion": "Black or white",
+    "artista": "Michael Jackson",
+    "genero": "Pop Internacional",
+    "duracion": "04:35",
+    "duracion_segundos": 275,
+    "cover": "/covers/song_241_Michael_Jackson_-_Black_or_white.jpg"
+  },
+  {
+    "id": 242,
+    "nombre_cancion": "Don't stop till you get enough",
+    "artista": "Michael Jackson",
+    "genero": "Pop & Baladas",
+    "duracion": "03:56",
+    "duracion_segundos": 236,
+    "cover": "/covers/song_242_Michael_Jackson_-_Don_t_stop_till_you_get_enough.jpg"
+  },
+  {
+    "id": 243,
+    "nombre_cancion": "Heal the world",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "duracion": "06:30",
+    "duracion_segundos": 391,
+    "cover": "/covers/song_243_Michael_Jackson_-_Heal_the_world.jpg"
+  },
+  {
+    "id": 244,
+    "nombre_cancion": "Remember the time",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "duracion": "09:10",
+    "duracion_segundos": 550,
+    "cover": "/covers/song_244_Michael_Jackson_-_Remember_the_time.jpg"
+  },
+  {
+    "id": 245,
+    "nombre_cancion": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Funk",
+    "duracion": "05:57",
+    "duracion_segundos": 358,
+    "cover": "/covers/song_245_Michael_Jackson_-_Thriller.jpg"
+  },
+  {
+    "id": 246,
+    "nombre_cancion": "Aire soy",
+    "artista": "Miguel Bosé",
+    "genero": "Pop",
+    "duracion": "04:19",
+    "duracion_segundos": 260,
+    "cover": "/covers/song_246_Miguel_Bose_-_Aire_soy.jpg"
+  },
+  {
+    "id": 247,
+    "nombre_cancion": "Amante Bandido",
+    "artista": "Miguel Bosé",
+    "genero": "Pop",
+    "duracion": "04:30",
+    "duracion_segundos": 270,
+    "cover": "/covers/song_247_Miguel_Bose_-_Amante_Bandido.jpg"
+  },
+  {
+    "id": 248,
+    "nombre_cancion": "Perfecta",
+    "artista": "Miranda & Julieta Venegas",
+    "genero": "Pop",
+    "duracion": "03:44",
+    "duracion_segundos": 225,
+    "cover": "/covers/song_248_Miranda_Julieta_Venegas_-_Perfecta.jpg"
+  },
+  {
+    "id": 249,
+    "nombre_cancion": "Frijolero",
+    "artista": "Molotov",
+    "genero": "Protesta",
+    "duracion": "03:30",
+    "duracion_segundos": 210,
+    "cover": "/covers/song_249_Molotov_-_Frijolero.jpg"
+  },
+  {
+    "id": 250,
+    "nombre_cancion": "Amor completo",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "04:08",
+    "duracion_segundos": 249,
+    "cover": "/covers/song_250_Mon_Laferte_-_Amor_completo.jpg"
+  },
+  {
+    "id": 251,
+    "nombre_cancion": "Antes de ti",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "04:02",
+    "duracion_segundos": 242,
+    "cover": "/covers/song_251_Mon_Laferte_-_Antes_de_ti.jpg"
+  },
+  {
+    "id": 252,
+    "nombre_cancion": "El Beso",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "03:00",
+    "duracion_segundos": 180,
+    "cover": "/covers/song_252_Mon_Laferte_-_El_Beso.jpg"
+  },
+  {
+    "id": 253,
+    "nombre_cancion": "El cristal",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "02:59",
+    "duracion_segundos": 179,
+    "cover": "/covers/song_253_Mon_Laferte_-_El_cristal.jpg"
+  },
+  {
+    "id": 254,
+    "nombre_cancion": "El Mambo",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "03:48",
+    "duracion_segundos": 229,
+    "cover": "/covers/song_254_Mon_Laferte_-_El_Mambo.jpg"
+  },
+  {
+    "id": 255,
+    "nombre_cancion": "Funeral",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "04:29",
+    "duracion_segundos": 270,
+    "cover": "/covers/song_255_Mon_Laferte_-_Funeral.jpg"
+  },
+  {
+    "id": 256,
+    "nombre_cancion": "Tormento",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "04:41",
+    "duracion_segundos": 282,
+    "cover": "/covers/song_256_Mon_Laferte_-_Tormento.jpg"
+  },
+  {
+    "id": 257,
+    "nombre_cancion": "Tu falta de querer",
+    "artista": "Mon Laferte",
+    "genero": "Pop & Baladas",
+    "duracion": "04:39",
+    "duracion_segundos": 279,
+    "cover": "/covers/song_257_Mon_Laferte_-_Tu_falta_de_querer.jpg"
+  },
+  {
+    "id": 258,
+    "nombre_cancion": "Amárrame",
+    "artista": "Mon Laferte ft. Juanes",
+    "genero": "Pop & Baladas",
+    "duracion": "03:25",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_258_Mon_Laferte_ft_Juanes_-_Amarrame.jpg"
+  },
+  {
+    "id": 259,
+    "nombre_cancion": "Mi buen amor",
+    "artista": "Mon Laferte y Enrique Bunbury",
+    "genero": "Pop & Baladas",
+    "duracion": "03:46",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_259_Mon_Laferte_y_Enrique_Bunbury_-_Mi_buen_amor.jpg"
+  },
+  {
+    "id": 260,
+    "nombre_cancion": "Amor con hielo",
+    "artista": "Morat",
+    "genero": "Pop & Baladas",
+    "duracion": "03:21",
+    "duracion_segundos": 201,
+    "cover": "/covers/song_260_Morat_-_Amor_con_hielo.jpg"
+  },
+  {
+    "id": 261,
+    "nombre_cancion": "Cuando nadie ve",
+    "artista": "Morat",
+    "genero": "Pop & Baladas",
+    "duracion": "03:45",
+    "duracion_segundos": 226,
+    "cover": "/covers/song_261_Morat_-_Cuando_nadie_ve.jpg"
+  },
+  {
+    "id": 262,
+    "nombre_cancion": "Cómo te atreves",
+    "artista": "Morat",
+    "genero": "Pop",
+    "duracion": "04:04",
+    "duracion_segundos": 245,
+    "cover": "/covers/song_262_Morat_-_Como_te_atreves.jpg"
+  },
+  {
+    "id": 263,
+    "nombre_cancion": "No se va",
+    "artista": "Morat",
+    "genero": "Pop",
+    "duracion": "03:36",
+    "duracion_segundos": 217,
+    "cover": "/covers/song_263_Morat_-_No_se_va.jpg"
+  },
+  {
+    "id": 264,
+    "nombre_cancion": "Bailan rochas y chetas",
+    "artista": "Nene Malo",
+    "genero": "Cumbia",
+    "duracion": "03:13",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_264_Nene_Malo_-_Bailan_rochas_y_chetas.jpg"
+  },
+  {
+    "id": 265,
+    "nombre_cancion": "El amante",
+    "artista": "Nicky Jam",
+    "genero": "Reggaetón",
+    "duracion": "03:41",
+    "duracion_segundos": 222,
+    "cover": "/covers/song_265_Nicky_Jam_-_El_amante.png"
+  },
+  {
+    "id": 266,
+    "nombre_cancion": "Hasta el amanecer",
+    "artista": "Nicky Jam",
+    "genero": "Pop & Baladas",
+    "duracion": "03:39",
+    "duracion_segundos": 219,
+    "cover": "/covers/song_266_Nicky_Jam_-_Hasta_el_amanecer.jpg"
+  },
+  {
+    "id": 267,
+    "nombre_cancion": "Travesuras",
+    "artista": "Nicky Jam",
+    "genero": "Reggaeton",
+    "duracion": "03:18",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_267_Nicky_Jam_-_Travesuras.jpg"
+  },
+  {
+    "id": 268,
+    "nombre_cancion": "X",
+    "artista": "Nicky Jam y J Balvin",
+    "genero": "Pop & Baladas",
+    "duracion": "02:56",
+    "duracion_segundos": 176,
+    "cover": "/covers/song_268_Nicky_Jam_y_J_Balvin_-_X.jpg"
+  },
+  {
+    "id": 269,
+    "nombre_cancion": "Dile que tú me quieres",
+    "artista": "Ozuna",
+    "genero": "Pop & Baladas",
+    "duracion": "04:02",
+    "duracion_segundos": 243,
+    "cover": "/covers/song_269_Ozuna_-_Dile_que_tu_me_quieres.jpg"
+  },
+  {
+    "id": 270,
+    "nombre_cancion": "Se preparó",
+    "artista": "Ozuna",
+    "genero": "Pop & Baladas",
+    "duracion": "03:10",
+    "duracion_segundos": 190,
+    "cover": "/covers/song_270_Ozuna_-_Se_preparo.jpg"
+  },
+  {
+    "id": 271,
+    "nombre_cancion": "El farsante (Remix)",
+    "artista": "Ozuna y Romeo Santos",
+    "genero": "Pop & Baladas",
+    "duracion": "04:21",
+    "duracion_segundos": 262,
+    "cover": "/covers/song_271_Ozuna_y_Romeo_Santos_-_El_farsante_Remix_.jpg"
+  },
+  {
+    "id": 272,
+    "nombre_cancion": "Los peces en el río",
+    "artista": "Pandora",
+    "genero": "Pop & Baladas",
+    "duracion": "03:15",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_272_Pandora_-_Los_peces_en_el_rio.jpg"
+  },
+  {
+    "id": 273,
+    "nombre_cancion": "Ni rosas, ni juguetes",
+    "artista": "Paulina Rubio & Pitbull",
+    "genero": "Pop",
+    "duracion": "03:34",
+    "duracion_segundos": 215,
+    "cover": "/covers/song_273_Paulina_Rubio_Pitbull_-_Ni_rosas_ni_juguetes.jpg"
+  },
+  {
+    "id": 274,
+    "nombre_cancion": "Yo no soy esa mujer",
+    "artista": "Paulina Rubio",
+    "genero": "Pop & Baladas",
+    "duracion": "03:43",
+    "duracion_segundos": 223,
+    "cover": "/covers/song_274_Paulina_Rubio_-_Yo_no_soy_esa_mujer.jpg"
+  },
+  {
+    "id": 275,
+    "nombre_cancion": "Mi forma de sentir",
+    "artista": "Pedro Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "04:04",
+    "duracion_segundos": 244,
+    "cover": "/covers/song_275_Pedro_Fernandez_-_Mi_forma_de_sentir.jpg"
+  },
+  {
+    "id": 276,
+    "nombre_cancion": "Amorcito corazón",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "01:51",
+    "duracion_segundos": 112,
+    "cover": "/covers/song_276_Pedro_Infante_-_Amorcito_corazon.jpg"
+  },
+  {
+    "id": 277,
+    "nombre_cancion": "Cien años",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "03:32",
+    "duracion_segundos": 212,
+    "cover": "/covers/song_277_Pedro_Infante_-_Cien_anos.jpg"
+  },
+  {
+    "id": 278,
+    "nombre_cancion": "Cucurrucucú",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "03:31",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_278_Pedro_Infante_-_Cucurrucucu.jpg"
+  },
+  {
+    "id": 279,
+    "nombre_cancion": "Ella",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "03:07",
+    "duracion_segundos": 187,
+    "cover": "/covers/song_279_Pedro_Infante_-_Ella.jpg"
+  },
+  {
+    "id": 280,
+    "nombre_cancion": "Flor sin retoño",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "03:16",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_280_Pedro_Infante_-_Flor_sin_retono.jpg"
+  },
+  {
+    "id": 281,
+    "nombre_cancion": "Historia de un amor",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "03:23",
+    "duracion_segundos": 204,
+    "cover": "/covers/song_281_Pedro_Infante_-_Historia_de_un_amor.jpg"
+  },
+  {
+    "id": 282,
+    "nombre_cancion": "Quién será",
+    "artista": "Pedro Infante",
+    "genero": "Pop & Baladas",
+    "duracion": "01:20",
+    "duracion_segundos": 80,
+    "cover": "/covers/song_282_Pedro_Infante_-_Quien_sera.jpg"
+  },
+  {
+    "id": 283,
+    "nombre_cancion": "Parece que va a llover",
+    "artista": "Pedro Infante y Luis Aguilar",
+    "genero": "Pop & Baladas",
+    "duracion": "01:42",
+    "duracion_segundos": 103,
+    "cover": "/covers/song_283_Pedro_Infante_y_Luis_Aguilar_-_Parece_que_va_a_llover.jpg"
+  },
+  {
+    "id": 284,
+    "nombre_cancion": "Me vas a extrañar",
+    "artista": "Pepe Aguilar",
+    "genero": "Pop & Baladas",
+    "duracion": "04:23",
+    "duracion_segundos": 264,
+    "cover": "/covers/song_284_Pepe_Aguilar_-_Me_vas_a_extranar.jpg"
+  },
+  {
+    "id": 285,
+    "nombre_cancion": "Estás fallando",
+    "artista": "Pepe Aguilar y Joan Sebastian",
+    "genero": "Pop & Baladas",
+    "duracion": "03:02",
+    "duracion_segundos": 182,
+    "cover": "/covers/song_285_Pepe_Aguilar_y_Joan_Sebastian_-_Estas_fallando.jpg"
+  },
+  {
+    "id": 286,
+    "nombre_cancion": "A esa",
+    "artista": "Pimpinela",
+    "genero": "Ballad",
+    "duracion": "03:00",
+    "duracion_segundos": 181,
+    "cover": "/covers/song_286_Pimpinela_-_A_esa.jpg"
+  },
+  {
+    "id": 287,
+    "nombre_cancion": "Al compás de una muñeira",
+    "artista": "Pimpinela",
+    "genero": "Folklore",
+    "duracion": "03:16",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_287_Pimpinela_-_Al_compas_de_una_muneira.jpg"
+  },
+  {
+    "id": 288,
+    "nombre_cancion": "Olvídame y pega la vuelta",
+    "artista": "Pimpinela",
+    "genero": "Pop & Baladas",
+    "duracion": "02:58",
+    "duracion_segundos": 179,
+    "cover": "/covers/song_288_Pimpinela_-_Olvidame_y_pega_la_vuelta.jpg"
+  },
+  {
+    "id": 289,
+    "nombre_cancion": "Darte un beso",
+    "artista": "Prince Royce",
+    "genero": "Bachata",
+    "duracion": "03:30",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_289_Prince_Royce_-_Darte_un_beso.jpg"
+  },
+  {
+    "id": 290,
+    "nombre_cancion": "Music Sessions #52",
+    "artista": "Quevedo con Bizarrap",
+    "genero": "Trap, electrodance",
+    "duracion": "03:19",
+    "duracion_segundos": 199,
+    "cover": "/covers/song_290_Quevedo_con_Bizarrap_-_Music_Sessions_52.jpg"
+  },
+  {
+    "id": 291,
+    "nombre_cancion": "Todo de ti",
+    "artista": "Rauw Alejandro",
+    "genero": "Pop & Baladas",
+    "duracion": "03:31",
+    "duracion_segundos": 212,
+    "cover": "/covers/song_291_Rauw_Alejandro_-_Todo_de_ti.jpg"
+  },
+  {
+    "id": 292,
+    "nombre_cancion": "Noviembre sin ti",
+    "artista": "Reik",
+    "genero": "Pop & Baladas",
+    "duracion": "03:23",
+    "duracion_segundos": 203,
+    "cover": "/covers/song_292_Reik_-_Noviembre_sin_ti.jpg"
+  },
+  {
+    "id": 293,
+    "nombre_cancion": "Cambios Extraños",
+    "artista": "Ricardo Murguía",
+    "genero": "Pop & Baladas",
+    "duracion": "03:25",
+    "duracion_segundos": 205,
+    "cover": "/covers/song_293_Ricardo_Murguia_-_Cambios_Extranos.png"
+  },
+  {
+    "id": 294,
+    "nombre_cancion": "Cha la head cha la",
+    "artista": "Ricardo Silva",
+    "genero": "Anime",
+    "duracion": "01:47",
+    "duracion_segundos": 108,
+    "cover": "/covers/song_294_Ricardo_Silva_-_Cha_la_head_cha_la.jpg"
+  },
+  {
+    "id": 295,
+    "nombre_cancion": "La Mordidita",
+    "artista": "Ricky Martin",
+    "genero": "Latin",
+    "duracion": "03:30",
+    "duracion_segundos": 210,
+    "cover": "/covers/song_295_Ricky_Martin_-_La_Mordidita.jpg"
+  },
+  {
+    "id": 296,
+    "nombre_cancion": "Livin' la vida loca",
+    "artista": "Ricky Martin",
+    "genero": "Pop & Baladas",
+    "duracion": "03:51",
+    "duracion_segundos": 231,
+    "cover": "/covers/song_296_Ricky_Martin_-_Livin_la_vida_loca.jpg"
+  },
+  {
+    "id": 297,
+    "nombre_cancion": "Amor eterno",
+    "artista": "Rocío Dúrcal",
+    "genero": "Ranchera",
+    "duracion": "06:49",
+    "duracion_segundos": 409,
+    "cover": "/covers/song_297_Rocio_Durcal_-_Amor_eterno.jpg"
+  },
+  {
+    "id": 298,
+    "nombre_cancion": "La gata bajo la lluvia",
+    "artista": "Rocío Dúrcal",
+    "genero": "Pop & Baladas",
+    "duracion": "03:31",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_298_Rocio_Durcal_-_La_gata_bajo_la_lluvia.jpg"
+  },
+  {
+    "id": 299,
+    "nombre_cancion": "Señora",
+    "artista": "Rocío Jurado",
+    "genero": "Euro Pop",
+    "duracion": "04:27",
+    "duracion_segundos": 267,
+    "cover": "/covers/song_299_Rocio_Jurado_-_Senora.jpg"
+  },
+  {
+    "id": 300,
+    "nombre_cancion": "Propuesta indecente",
+    "artista": "Romeo Santos",
+    "genero": "Bachata",
+    "duracion": "03:56",
+    "duracion_segundos": 236,
+    "cover": "/covers/song_300_Romeo_Santos_-_Propuesta_indecente.png"
+  },
+  {
+    "id": 301,
+    "nombre_cancion": "Bizcochito",
+    "artista": "Rosalía",
+    "genero": "Pop & Baladas",
+    "duracion": "02:09",
+    "duracion_segundos": 130,
+    "cover": "/covers/song_301_Rosalia_-_Bizcochito.jpg"
+  },
+  {
+    "id": 302,
+    "nombre_cancion": "Despechá",
+    "artista": "Rosalía",
+    "genero": "Mambo, electropop",
+    "duracion": "02:37",
+    "duracion_segundos": 157,
+    "cover": "/covers/song_302_Rosalia_-_Despecha.jpg"
+  },
+  {
+    "id": 303,
+    "nombre_cancion": "La perla",
+    "artista": "ROSALÍA",
+    "genero": "Latin Music",
+    "duracion": "03:15",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_303_ROSALIA_-_La_perla.jpg"
+  },
+  {
+    "id": 304,
+    "nombre_cancion": "Motomami",
+    "artista": "Rosalía",
+    "genero": "Urban pop",
+    "duracion": "01:01",
+    "duracion_segundos": 62,
+    "cover": "/covers/song_304_Rosalia_-_Motomami.jpg"
+  },
+  {
+    "id": 305,
+    "nombre_cancion": "Saoko",
+    "artista": "Rosalía",
+    "genero": "Urban latino, reguetón",
+    "duracion": "02:20",
+    "duracion_segundos": 140,
+    "cover": "/covers/song_305_Rosalia_-_Saoko.jpg"
+  },
+  {
+    "id": 306,
+    "nombre_cancion": "Con altura",
+    "artista": "ROSALÍA feat. J Balvin & El Guincho",
+    "genero": "Pop",
+    "duracion": "02:41",
+    "duracion_segundos": 162,
+    "cover": "/covers/song_306_ROSALIA_feat_J_Balvin_El_Guincho_-_Con_altura.jpg"
+  },
+  {
+    "id": 307,
+    "nombre_cancion": "Tacones rojos",
+    "artista": "Sebastián Yatra",
+    "genero": "Reguetón",
+    "duracion": "03:09",
+    "duracion_segundos": 189,
+    "cover": "/covers/song_307_Sebastian_Yatra_-_Tacones_rojos.jpg"
+  },
+  {
+    "id": 308,
+    "nombre_cancion": "Traicionera",
+    "artista": "Sebastián Yatra",
+    "genero": "Pop & Baladas",
+    "duracion": "03:30",
+    "duracion_segundos": 0,
+    "cover": "/covers/song_308_Sebastian_Yatra_-_Traicionera.jpg"
+  },
+  {
+    "id": 309,
+    "nombre_cancion": "Amor prohibido",
+    "artista": "Selena",
+    "genero": "Pop & Baladas",
+    "duracion": "02:55",
+    "duracion_segundos": 175,
+    "cover": "/covers/song_309_Selena_-_Amor_prohibido.jpg"
+  },
+  {
+    "id": 310,
+    "nombre_cancion": "Bidi bidi bom bom",
+    "artista": "Selena",
+    "genero": "Pop & Baladas",
+    "duracion": "03:30",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_310_Selena_-_Bidi_bidi_bom_bom.jpg"
+  },
+  {
+    "id": 311,
+    "nombre_cancion": "Como la flor",
+    "artista": "Selena",
+    "genero": "Pop & Baladas",
+    "duracion": "03:01",
+    "duracion_segundos": 181,
+    "cover": "/covers/song_311_Selena_-_Como_la_flor.jpg"
+  },
+  {
+    "id": 312,
+    "nombre_cancion": "No me queda más",
+    "artista": "Selena",
+    "genero": "Pop & Baladas",
+    "duracion": "03:21",
+    "duracion_segundos": 201,
+    "cover": "/covers/song_312_Selena_-_No_me_queda_mas.jpg"
+  },
+  {
+    "id": 313,
+    "nombre_cancion": "Loca",
+    "artista": "Shakira & El Cata",
+    "genero": "Pop",
+    "duracion": "02:41",
+    "duracion_segundos": 162,
+    "cover": "/covers/song_313_Shakira_El_Cata_-_Loca.jpg"
+  },
+  {
+    "id": 314,
+    "nombre_cancion": "Antología",
+    "artista": "Shakira",
+    "genero": "Pop",
+    "duracion": "04:13",
+    "duracion_segundos": 253,
+    "cover": "/covers/song_314_Shakira_-_Antologia.jpg"
+  },
+  {
+    "id": 315,
+    "nombre_cancion": "Estoy aquí",
+    "artista": "Shakira",
+    "genero": "Pop",
+    "duracion": "04:10",
+    "duracion_segundos": 250,
+    "cover": "/covers/song_315_Shakira_-_Estoy_aqui.jpg"
+  },
+  {
+    "id": 316,
+    "nombre_cancion": "Gitana",
+    "artista": "Shakira",
+    "genero": "Pop",
+    "duracion": "03:38",
+    "duracion_segundos": 218,
+    "cover": "/covers/song_316_Shakira_-_Gitana.jpg"
+  },
+  {
+    "id": 317,
+    "nombre_cancion": "Las de la intuición",
+    "artista": "Shakira",
+    "genero": "Pop & Baladas",
+    "duracion": "03:40",
+    "duracion_segundos": 221,
+    "cover": "/covers/song_317_Shakira_-_Las_de_la_intuicion.jpg"
+  },
+  {
+    "id": 318,
+    "nombre_cancion": "Loba",
+    "artista": "Shakira",
+    "genero": "Pop Internacional",
+    "duracion": "03:07",
+    "duracion_segundos": 188,
+    "cover": "/covers/song_318_Shakira_-_Loba.jpg"
+  },
+  {
+    "id": 319,
+    "nombre_cancion": "Sale el sol",
+    "artista": "Shakira",
+    "genero": "Pop",
+    "duracion": "03:31",
+    "duracion_segundos": 211,
+    "cover": "/covers/song_319_Shakira_-_Sale_el_sol.jpg"
+  },
+  {
+    "id": 320,
+    "nombre_cancion": "Soltera",
+    "artista": "Shakira",
+    "genero": "Latin pop",
+    "duracion": "04:08",
+    "duracion_segundos": 249,
+    "cover": "/covers/song_320_Shakira_-_Soltera.jpg"
+  },
+  {
+    "id": 321,
+    "nombre_cancion": "Rabiosa",
+    "artista": "Shakira feat El Cata",
+    "genero": "Pop",
+    "duracion": "02:53",
+    "duracion_segundos": 174,
+    "cover": "/covers/song_321_Shakira_feat_El_Cata_-_Rabiosa.jpg"
+  },
+  {
+    "id": 322,
+    "nombre_cancion": "Waka waka (Esto es África)",
+    "artista": "Shakira ft. Freshlyground",
+    "genero": "Pop & Baladas",
+    "duracion": "03:22",
+    "duracion_segundos": 203,
+    "cover": "/covers/song_322_Shakira_ft_Freshlyground_-_Waka_waka_Esto_es_Africa_.jpg"
+  },
+  {
+    "id": 323,
+    "nombre_cancion": "Chantaje",
+    "artista": "Shakira y Maluma",
+    "genero": "Latin",
+    "duracion": "03:15",
+    "duracion_segundos": 196,
+    "cover": "/covers/song_323_Shakira_y_Maluma_-_Chantaje.jpg"
+  },
+  {
+    "id": 324,
+    "nombre_cancion": "Te felicito",
+    "artista": "Shakira y Rauw Alejandro",
+    "genero": "Latin",
+    "duracion": "02:52",
+    "duracion_segundos": 173,
+    "cover": "/covers/song_324_Shakira_y_Rauw_Alejandro_-_Te_felicito.jpg"
+  },
+  {
+    "id": 325,
+    "nombre_cancion": "En mi corazón vivirás",
+    "artista": "Tarzán",
+    "genero": "Pop & Baladas",
+    "duracion": "04:17",
+    "duracion_segundos": 258,
+    "cover": "/covers/song_325_Tarzan_-_En_mi_corazon_viviras.jpg"
+  },
+  {
+    "id": 326,
+    "nombre_cancion": "Hijo de hombre",
+    "artista": "Tarzán",
+    "genero": "Pop & Baladas",
+    "duracion": "02:36",
+    "duracion_segundos": 156,
+    "cover": "/covers/song_326_Tarzan_-_Hijo_de_hombre.jpg"
+  },
+  {
+    "id": 327,
+    "nombre_cancion": "Campanas Navideñas",
+    "artista": "Tatiana",
+    "genero": "Pop & Baladas",
+    "duracion": "03:01",
+    "duracion_segundos": 182,
+    "cover": "/covers/song_327_Tatiana_-_Campanas_Navidenas.jpg"
+  },
+  {
+    "id": 328,
+    "nombre_cancion": "Rodolfo, el reno de la nariz roja",
+    "artista": "Thalía",
+    "genero": "Villancico",
+    "duracion": "02:28",
+    "duracion_segundos": 149,
+    "cover": "/covers/song_328_Thalia_-_Rodolfo_el_reno_de_la_nariz_roja.jpg"
+  },
+  {
+    "id": 329,
+    "nombre_cancion": "¿A quién le importa?",
+    "artista": "Thalía",
+    "genero": "Pop & Baladas",
+    "duracion": "03:47",
+    "duracion_segundos": 227,
+    "cover": "/covers/song_329_Thalia_-_A_quien_le_importa.jpg"
+  },
+  {
+    "id": 330,
+    "nombre_cancion": "I feel it coming",
+    "artista": "The Weeknd ft. Daft Punk",
+    "genero": "Pop & Baladas",
+    "duracion": "04:26",
+    "duracion_segundos": 266,
+    "cover": "/covers/song_330_The_Weeknd_ft_Daft_Punk_-_I_feel_it_coming.jpg"
+  },
+  {
+    "id": 331,
+    "nombre_cancion": "Starboy",
+    "artista": "The Weeknd ft. Daft Punk",
+    "genero": "Pop & Baladas",
+    "duracion": "04:33",
+    "duracion_segundos": 273,
+    "cover": "/covers/song_331_The_Weeknd_ft_Daft_Punk_-_Starboy.jpg"
+  },
+  {
+    "id": 332,
+    "nombre_cancion": "El amor",
+    "artista": "Tito el Bambino",
+    "genero": "Pop & Baladas",
+    "duracion": "04:07",
+    "duracion_segundos": 247,
+    "cover": "/covers/song_332_Tito_el_Bambino_-_El_amor.jpg"
+  },
+  {
+    "id": 333,
+    "nombre_cancion": "El año viejo",
+    "artista": "Tony Camargo",
+    "genero": "Cumbia",
+    "duracion": "03:07",
+    "duracion_segundos": 187,
+    "cover": "/covers/song_333_Tony_Camargo_-_El_ano_viejo.jpg"
+  },
+  {
+    "id": 334,
+    "nombre_cancion": "Hay un amigo en mí",
+    "artista": "Toy Story",
+    "genero": "Pop & Baladas",
+    "duracion": "01:25",
+    "duracion_segundos": 86,
+    "cover": "/covers/song_334_Toy_Story_-_Hay_un_amigo_en_mi.jpg"
+  },
+  {
+    "id": 335,
+    "nombre_cancion": "Yo soy tu amigo fiel",
+    "artista": "Toy Story",
+    "genero": "Pop & Baladas",
+    "duracion": "02:07",
+    "duracion_segundos": 128,
+    "cover": "/covers/song_335_Toy_Story_-_Yo_soy_tu_amigo_fiel.jpg"
+  },
+  {
+    "id": 336,
+    "nombre_cancion": "El Rey",
+    "artista": "Vicente Fernandez",
+    "genero": "Pop & Baladas",
+    "duracion": "02:33",
+    "duracion_segundos": 154,
+    "cover": "/covers/song_336_Vicente_Fernandez_-_El_Rey.jpg"
+  },
+  {
+    "id": 337,
+    "nombre_cancion": "Volver volver",
+    "artista": "Vicente Fernandez",
+    "genero": "Pop & Baladas",
+    "duracion": "02:59",
+    "duracion_segundos": 179,
+    "cover": "/covers/song_337_Vicente_Fernandez_-_Volver_volver.jpg"
+  },
+  {
+    "id": 338,
+    "nombre_cancion": "El último beso",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "02:51",
+    "duracion_segundos": 171,
+    "cover": "/covers/song_338_Vicente_Fernandez_-_El_ultimo_beso.jpg"
+  },
+  {
+    "id": 339,
+    "nombre_cancion": "Estos celos",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "03:10",
+    "duracion_segundos": 190,
+    "cover": "/covers/song_339_Vicente_Fernandez_-_Estos_celos.jpg"
+  },
+  {
+    "id": 340,
+    "nombre_cancion": "Lástima que seas ajena",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "04:17",
+    "duracion_segundos": 258,
+    "cover": "/covers/song_340_Vicente_Fernandez_-_Lastima_que_seas_ajena.jpg"
+  },
+  {
+    "id": 341,
+    "nombre_cancion": "Millón de primaveras",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "02:51",
+    "duracion_segundos": 172,
+    "cover": "/covers/song_341_Vicente_Fernandez_-_Millon_de_primaveras.jpg"
+  },
+  {
+    "id": 342,
+    "nombre_cancion": "Mujeres divinas",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "03:12",
+    "duracion_segundos": 193,
+    "cover": "/covers/song_342_Vicente_Fernandez_-_Mujeres_divinas.jpg"
+  },
+  {
+    "id": 343,
+    "nombre_cancion": "Por tu maldito amor",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "04:36",
+    "duracion_segundos": 277,
+    "cover": "/covers/song_343_Vicente_Fernandez_-_Por_tu_maldito_amor.jpg"
+  },
+  {
+    "id": 344,
+    "nombre_cancion": "Que te vaya bonito",
+    "artista": "Vicente Fernández",
+    "genero": "Ranchera",
+    "duracion": "03:02",
+    "duracion_segundos": 183,
+    "cover": "/covers/song_344_Vicente_Fernandez_-_Que_te_vaya_bonito.jpg"
+  },
+  {
+    "id": 345,
+    "nombre_cancion": "Si te vas no hay lío",
+    "artista": "Vicente Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "03:30",
+    "duracion_segundos": 0,
+    "cover": ""
+  },
+  {
+    "id": 346,
+    "nombre_cancion": "Perdón",
+    "artista": "Vicente Fernández y Alejandro Fernández",
+    "genero": "Pop & Baladas",
+    "duracion": "03:34",
+    "duracion_segundos": 215,
+    "cover": "/covers/song_346_Vicente_Fernandez_y_Alejandro_Fernandez_-_Perdon.jpg"
+  },
+  {
+    "id": 347,
+    "nombre_cancion": "Arre, borriquito",
+    "artista": "Villancicos",
+    "genero": "Villancicos",
+    "duracion": "01:59",
+    "duracion_segundos": 120,
+    "cover": "/covers/song_347_Villancicos_-_Arre_borriquito.jpg"
+  },
+  {
+    "id": 348,
+    "nombre_cancion": "Campana sobre campana",
+    "artista": "Villancicos",
+    "genero": "Pop & Baladas",
+    "duracion": "02:44",
+    "duracion_segundos": 164,
+    "cover": "/covers/song_348_Villancicos_-_Campana_sobre_campana.jpg"
+  },
+  {
+    "id": 349,
+    "nombre_cancion": "El burrito sabanero",
+    "artista": "Villancicos",
+    "genero": "Villancico",
+    "duracion": "03:03",
+    "duracion_segundos": 183,
+    "cover": "/covers/song_349_Villancicos_-_El_burrito_sabanero.jpg"
+  },
+  {
+    "id": 350,
+    "nombre_cancion": "Hacia Belén",
+    "artista": "Villancicos",
+    "genero": "Pop & Baladas",
+    "duracion": "02:44",
+    "duracion_segundos": 165,
+    "cover": "/covers/song_350_Villancicos_-_Hacia_Belen.jpg"
+  },
+  {
+    "id": 351,
+    "nombre_cancion": "Los peces en el río",
+    "artista": "Villancicos",
+    "genero": "Pop & Baladas",
+    "duracion": "02:59",
+    "duracion_segundos": 179,
+    "cover": "/covers/song_351_Villancicos_-_Los_peces_en_el_rio.jpg"
+  },
+  {
+    "id": 352,
+    "nombre_cancion": "Noche de paz",
+    "artista": "Villancicos",
+    "genero": "Villancicos",
+    "duracion": "02:19",
+    "duracion_segundos": 139,
+    "cover": "/covers/song_352_Villancicos_-_Noche_de_paz.jpg"
+  },
+  {
+    "id": 353,
+    "nombre_cancion": "Rodolfo el reno",
+    "artista": "Villancicos",
+    "genero": "Pop & Baladas",
+    "duracion": "02:30",
+    "duracion_segundos": 150,
+    "cover": "/covers/song_353_Villancicos_-_Rodolfo_el_reno.jpg"
+  },
+  {
+    "id": 354,
+    "nombre_cancion": "Una pandereta suena",
+    "artista": "Villancicos",
+    "genero": "Villancicos",
+    "duracion": "01:14",
+    "duracion_segundos": 74,
+    "cover": "/covers/song_354_Villancicos_-_Una_pandereta_suena.jpg"
+  },
+  {
+    "id": 355,
+    "nombre_cancion": "Estoy enamorado",
+    "artista": "Wisin & Yandel",
+    "genero": "Reggaeton",
+    "duracion": "05:17",
+    "duracion_segundos": 317,
+    "cover": "/covers/song_355_Wisin_Yandel_-_Estoy_enamorado.jpg"
+  },
+  {
+    "id": 356,
+    "nombre_cancion": "Noche de sexo",
+    "artista": "Wisin & Yandel Ft. Aventura",
+    "genero": "Reggaeton",
+    "duracion": "03:25",
+    "duracion_segundos": 206,
+    "cover": "/covers/song_356_Wisin_Yandel_Ft_Aventura_-_Noche_de_sexo.jpg"
+  },
+  {
+    "id": 357,
+    "nombre_cancion": "Algo me gusta de ti",
+    "artista": "Wisin & Yandel ft. Chris Brown & T-Pain",
+    "genero": "Pop & Baladas",
+    "duracion": "04:55",
+    "duracion_segundos": 296,
+    "cover": "/covers/song_357_Wisin_Yandel_ft_Chris_Brown_T-Pain_-_Algo_me_gusta_de_ti.jpg"
+  },
+  {
+    "id": 358,
+    "nombre_cancion": "Escápate Conmigo",
+    "artista": "Wisin y Ozuna",
+    "genero": "Pop & Baladas",
+    "duracion": "03:52",
+    "duracion_segundos": 233,
+    "cover": "/covers/song_358_Wisin_y_Ozuna_-_Escapate_Conmigo.jpg"
+  },
+  {
+    "id": 359,
+    "nombre_cancion": "La maldita primavera",
+    "artista": "Yuri",
+    "genero": "Other",
+    "duracion": "03:51",
+    "duracion_segundos": 232,
+    "cover": "/covers/song_359_Yuri_-_La_maldita_primavera.jpg"
+  },
+  {
+    "id": 360,
+    "nombre_cancion": "Ya te olvidé",
+    "artista": "Yuridia",
+    "genero": "Latino",
+    "duracion": "03:28",
+    "duracion_segundos": 208,
+    "cover": "/covers/song_360_Yuridia_-_Ya_te_olvide.jpg"
+  },
+  {
+    "id": 361,
+    "nombre_cancion": "Mon amour",
+    "artista": "Zzoilo y Aitana",
+    "genero": "Pop, rap",
+    "duracion": "03:00",
+    "duracion_segundos": 180,
+    "cover": "/covers/song_361_Zzoilo_y_Aitana_-_Mon_amour.jpg"
+  }
+]
